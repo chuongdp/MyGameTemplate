@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <androidPackages>
+        <androidPackage spec="com.applovin.mediation:line-adapter:2025.1.10.1" />
+    </androidPackages>
+    <iosPods>
+        <iosPod name="AppLovinMediationLineAdapter" version="2.9.20241106.0" />
+    </iosPods>
+</dependencies>

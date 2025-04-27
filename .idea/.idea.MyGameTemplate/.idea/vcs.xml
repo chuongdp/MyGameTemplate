@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assets/GameFoundation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assets/ThirdPartyServices" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assets/UITemplate" vcs="Git" />
+  </component>
+</project>

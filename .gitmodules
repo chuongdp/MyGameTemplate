@@ -7,3 +7,6 @@
 [submodule "Assets/GameFoundation"]
 	path = Assets/GameFoundation
 	url = git@github.com:chuongdp/GameFoundation.git
+[submodule "Assets/Network"]
+	path = Assets/Network
+	url = git@github.com:chuongdp/Network.git

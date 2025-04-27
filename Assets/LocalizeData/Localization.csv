@@ -1,0 +1,107 @@
+Key,Type,Desc,English,Spanish,Portuguese,German,French,Russian,Japanese,Korean,Vietnamese,Thai,Indonesian,Simplified Chinese
+play_btn,,,PLAY,JUGAR,JOGAR,SPIELEN,JOUER,ИГРАТЬ,プレイ,플레이,CHƠI,เล่น,MAIN,玩
+unlock_btn,,,UNLOCK,DESBLOQUEAR,DESBLOQUEAR,FREISCHALTEN,DÉBLOQUER,РАЗБЛОКИРОВАТЬ,アンロック,잠금 해제,MỞ KHÓA,ปลดล็อก,BUKA KUNCI,解锁
+claim_btn,,,CLAIM,RECLAMAR,RECLAMAR,ANFORDERN,RÉCLAMER,ПОЛУЧИТЬ,受け取る,받다,NHẬN,รับ,AMBIL,领取
+get_it_btn,,,GET IT,ENTENDIDO,ENTENDI,VERSTANDEN,COMPRIS,ПОНЯЛ,わかりました,알겠습니다,HIỂU RỒI,เข้าใจแล้ว,MENGERTI,明白了
+get_it_shop,,,GET IT,COMPRAR,PEGUE-O,KAUFEN,ACHETER,КУПИТЬ,手に入れる,이걸 구입해,MUA NGAY,เอาเลย,DAPATKAN,得到它
+reconnect_btn,,,RECONNECT,RECONECTAR,RECONEXÃO,WIEDERVERBINDEN,RECONNECTER,ПЕРЕПОДКЛЮЧИТЬ,再接続,재연결,KẾT NỐI LẠI,เชื่อมต่ออีกครั้ง,SAMBUNGKAN KEMBALI,重新连接
+setting_btn,,,SETTING,AJUSTES,CONFIG,EINSTELL,PARAMÈTRES,НАСТРОЙКИ,設定,설정,CÀI ĐẶT,ตั้งค่า,PENGATURAN,设置
+skin_btn,,,SKIN,PIEL,SKIN,SKIN,SKIN,ОБЛИЧИЕ,スキン,스킨,SKIN,สกิน,SKIN,皮肤
+chapter_btn,,,CHAPTER,CAPÍTULO,CAPÍTULO,KAPITEL,CHAPITRE,ГЛАВА,チャプター,챕터,CHƯƠNG,บท,BAB,章节
+home_btn,,,HOME,INICIO,INÍCIO,STARTSEITE,ACCUEIL,ГЛАВНАЯ,ホーム,홈,TRANG CHỦ,หน้าแรก,HALAMAN UTAMA,主页
+triple_btn,,,TRIPLE,TRIPLE,TRIPLO,DREIFACH,TRIPLE,ТРОЙНОЙ,トリプル,트리플,GẤP BA,ทริปเปิ้ล,TRIPLE,三重
+no_thanks_btn,,,"No, thanks","No, gracias","Não, obrigado","Nein, danke","Non, merci","Нет, спасибо",いいえ、ありがとう,"아니요, 감사합니다","Thôi, để sau","ไม่, ขอบคุณ","Tidak, terima kasih",不，谢谢
+jump_btn,,,Jump,Saltar,Pular,Springen,Sauter,Прыгать,ジャンプ,점프,Nhảy,กระโดด,Melompat,跳跃
+grab_btn,,,Grab,Agarrar,Pegar,Greifen,Prendre,Взять,掴む,집다,Cầm lên,หยิบ,Ambil,拿
+push_btn,,,Push,Empujar,Empurrar,Schieben,Pousser,Толкать,押す,밀다,Đẩy,ผลัก,Dorong,推
+replay_btn,,,REPLAY,REPETIR,REPETIR,WIEDERHOLEN,REJOUER,ПОВТОРИТЬ,リプレイ,다시하기,CHƠI LẠI,เล่นซ้ำ,MAINKAN ULANG,重播
+skip_btn,,,SKIP,SALTAR,PULAR,ÜBERGEHEN,PASSER,ПРОПУСК,スキップ,건너뛰기,BỎ QUA,ข้าม,LEWATI,跳过
+got_it_btn,,,GOT IT,ENTENDIDO,ENTENDI,VERSTANDEN,COMPRIS,ПОНЯЛ,わかりました,알겠습니다,HIỂU RỒI,เข้าใจแล้ว,MENGERTI,明白了
+free_btn,,,FREE,GRATIS,GRÁTIS,KOSTENLOS,GRATUIT,БЕСПЛАТНО,無料,무료,MIỄN PHÍ,ฟรี,GRATIS,免费
+select_btn,,,SELECT,SELECCIONAR,SELECIONAR,AUSWÄHLEN,SÉLECTIONNER,ВЫБРАТЬ,選択,선택,CHỌN,เลือก,PILIH,选择
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+notify_success,,,Successfully,Exitoso,Bem-sucedido,Erfolgreich,Réussi,Успешно,成功,성공,Thành công,สำเร็จ,Berhasil,成功
+notify_fail,,,Failure,Fracaso,Falha,Fehler,Échec,Неудача,失敗,실패,Thất bại,ความล้มเหลว,Gagal,失败
+notify_main_quest,,,QUEST COMPLETED,MISIÓN COMPLETADA,MISSÃO CONCLUÍDA,ABGESCHLOSSEN,QUÊTE TERMINÉE,ЗАДАЧА ЗАВЕРШЕНА,クエスト完了,퀘스트 완료,Hoàn thành,ทำภารกิจเสร็จแล้ว,Misi Selesai,任务完成
+notify_reach_level,,,Reach level:,Alcanzar el nivel:,Alcançar o nível:,Erreiche Level:,Atteindre le niveau :,Достигните уровень:,レベルに到達:,레벨에 도달:,Đạt cấp độ:,ถึงระดับ:,Mencapai Level:,达到等级：
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+chapter,,,Chapter {[CHAPTERID]},Capítulo {[CHAPTERID]},Capítulo {[CHAPTERID]},Kapitel {[CHAPTERID]},Chapitre {[CHAPTERID]},Глава {[CHAPTERID]},チャプター {[CHAPTERID]},챕터 {[CHAPTERID]},Chương {[CHAPTERID]},บท {[CHAPTERID]},Bab {[CHAPTERID]},章节 {[CHAPTERID]}
+chapter_name_1,,,Join the chaos,Únete al caos,Junte-se ao caos,Tritt dem Chaos bei,Rejoindre le chaos,Присоединиться к хаосу,混乱に参加,혼란에 합류,Tham gia hỗn loạn,เข้าร่วมความยุ่งเหยิง,Bergabung dalam Kekacauan,加入混乱
+chapter_name_2,,,The Lawn Fight,La lucha en el césped,A Luta no Jardim,Der Rasen-Kampf,Le combat dans la pelouse,Бой на газоне,芝生の戦い,잔디밭 싸움,Trận chiến trên bãi cỏ,การต่อสู้ในสนามหญ้า,Pertarungan di Halaman Rumput,草地上的战斗
+chapter_name_3,,,Restaurant Raid,Asalto al restaurante,Assalto ao restaurante,Restaurant-Razzia,Raid du restaurant,Налет на ресторан,レストラン襲撃,레스토랑 습격,Cuộc đột kích nhà hàng,การโจมตีร้านอาหาร,Serangan di Restoran,餐厅中的攻击
+chapter_progress,,,Progress,Progreso,Progresso,Fortschritt,Progrès,Прогресс,進行状況,진행 상황,Tiến trình,ความคืบหน้า,Kemajuan,进度
+chapter_full_name_1,,,Chapter 1: Join the chaos,Capítulo 1: Únete al caos,Capítulo 1: Junte-se ao caos,Kapitel 1: Tritt dem Chaos bei,Chapitre 1: Rejoindre le chaos,Глава 1: Присоединиться к хаосу,第1章: 混乱に参加,1장: 혼란에 합류,Chương 1: Tham gia hỗn loạn,บทที่ 1: เข้าร่วมความยุ่งเหยิง,Bab 1: Bergabung dalam Kekacauan,章节 1: 加入混乱
+chapter_full_name_2,,,Chapter 2: The Lawn Fight,Capítulo 2: La lucha en el césped,Capítulo 2: A Luta no Jardim,Kapitel 2: Der Rasen-Kampf,Chapitre 2: Le combat dans la pelouse,Глава 2: Бой на газоне,第2章: 芝生の戦い,2장: 잔디밭 싸움,Chương 2: Trận chiến trên bãi cỏ,บทที่ 2: การต่อสู้ในสนามหญ้า,Bab 2: Pertarungan di Halaman Rumput,章节 2: 草地上的战斗
+chapter_full_name_3,,,Chapter 3: Restaurant Raid,Capítulo 3: Asalto al restaurante,Capítulo 3: Assalto ao restaurante,Kapitel 3: Restaurant-Razzia,Chapitre 3: Raid du restaurant,Глава 3: Налет на ресторан,第3章: レストラン襲撃,3장: 레스토랑 습격,Chương 3: Cuộc đột kích nhà hàng,บทที่ 3: การโจมตีร้านอาหาร,Bab 3: Serangan di Restoran,章节 3: 餐厅中的攻击
+pause_title,,,Pause,Pausa,Pausa,Pause,Pause,Пауза,一時停止,일시 정지,Tạm dừng,หยุดชั่วคราว,Jeda Sementara,暂停
+setting_title,,,Setting,Configuración,Configurações,Einstellungen,Paramètres,Настройки,設定,설정,Cài đặt,การตั้งค่า,Pengaturan,设置
+sound,,,Sound,Sonido,Som,Ton,Son,Звук,音,소리,Âm thanh,เสียง,Suara,声音
+music,,,Music,Música,Música,Musik,Musique,Музыка,音楽,음악,Nhạc,ดนตรี,Musik,音乐
+vibration,,,Vibration,Vibración,Vibração,Vibration,Vibration,Вибрация,バイブレーション,진동,Rung,สั่น,Getaran,震动
+resolution,,,Resolution,Resolución,Resolução,Auflösung,Résolution,Разрешение,解決,해결,Độ phân giải,ปณิธาน,Resolusi,解决
+fps_limit,,,FPS Limit,Límite de FPS,Limite de FPS,FPS-Limit,Limite d'IPS,Лимит ФПС,FPS制限,FPS 제한,FPS,ขีดจำกัด FPS,Batas FPS,帧率限制
+shadow,,,Shadow,Sombra,Sombra,Schatten,Ombre,Тень,影,그림자,Bóng,เงา,Bayangan,阴影
+invert_y,,,Invert Y,Invertir Y,Inverter Y,Y umkehren,Inverser Y,Инвертировать Y,Y軸反転,Y 축 반전,Đảo ngược Y,สลับ Y,Balikkan Sumbu Y,翻转Y轴
+sensitivity,,,Sensitivity,Sensibilidad,Sensibilidade,Empfindlichkeit,Sensibilité,Чувствительность,感度,민감도,Độ nhạy,ความไว,Sensitivitas,灵敏度
+on,,,On,On,On,On,On,Вкл,オン,켜짐,Bật,เปิด,Hidup,开
+off,,,Off,Off,Off,Off,Off,Выкл,オフ,꺼짐,Tắt,ปิด,Mati,关
+language,,,Language,Idioma,Idioma,Sprache,Langue,Язык,言語,언어,Ngôn ngữ,ภาษา,Bahasa,语言
+,,,,,,,,,,,,,,
+language_name,,,English,Español,Português,Deutsch,Français,русский,日本語,조선어,Tiếng Việt,ไทย,Indonesia,简体字
+level_up_title,,,Level Up,¡Nivel alcanzado!,Subir de nível,Level Up,Niveau supérieur,Уровень повышен,レベルアップ,레벨 업,Lên cấp,เลเวลอัพ,Level Naik,升级
+reward,,,Reward:,Recompensa:,Recompensa:,Belohnung:,Récompense :,Награда:,報酬：,보상:,Phần thưởng:,รางวัล:,Hadiah,奖励
+congratulation,,,Congratulation,¡Felicidades!,Parabéns!,Herzlichen Glückwunsch,Félicitations,Поздравляем!,おめでとう！,축하합니다!,Chúc mừng!,ยินดีด้วย!,Selamat!,恭喜！
+shop_title,,,Shop,Tienda,Loja,Geschäft,Boutique,Магазин,ショップ,상점,Cửa hàng,ร้านค้า,Toko,商店
+connection_error_title,,,Connection Error,Error de conexión,Erro de conexão,Verbindungsfehler,Erreur de connexion,Ошибка подключения,接続エラー,연결 오류,Lỗi kết nối,ข้อผิดพลาดในการเชื่อมต่อ,Kesalahan Koneksi,连接错误
+rate_title,,,Rate,Valorar,Avaliar,Bewerten,Évaluer,Оценить,評価,평가,Đánh giá,ให้คะแนน,Beri Nilai,评分
+rate_des,,,How would you like rate our game?,¿Cómo te gustaría calificar nuestro juego?,Como você gostaria de avaliar nosso jogo?,Wie würden Sie unser Spiel bewerten?,Comment souhaitez-vous évaluer notre jeu ?,Как бы вы оценили нашу игру?,ゲームをどう評価しますか？,우리 게임을 어떻게 평가하시겠습니까?,Bạn muốn đánh giá trò chơi của chúng tôi như thế nào?,คุณอยากให้คะแนนเกมของเราอย่างไร?,Bagaimana Anda ingin menilai game kami?,您想如何评价我们的游戏？
+level,,,Level {[CurrentLevel]},Nivel {[CurrentLevel]},Nível {[CurrentLevel]},Level {[CurrentLevel]},Niveau {[CurrentLevel]},Уровень {[CurrentLevel]},レベル {[CurrentLevel]},레벨 {[CurrentLevel]},Cấp {[CurrentLevel]},เลเวล {[CurrentLevel]},Level {[CurrentLevel]},等级 {[CurrentLevel]}
+main_quest,,,Main Quest,Misión principal,Missão principal,Hauptquest,Quête principale,Основное задание,メインクエスト,주요 퀘스트,Nhiệm vụ chính,เควสต์หลัก,Quest Utama,主线任务
+side_quest,,,Side Quest,Misión secundaria,Missão secundária,Nebenquest,Quête secondaire,Побочное задание,サイドクエスト,사이드 퀘스트,Nhiệm vụ phụ,เควสต์ข้างเคียง,Quest Sampingan,支线任务
+,,,,,,,,,,,,,,
+player,,,Player,Jugador,Jogador,Spieler,Joueur,Игрок,プレイヤー,플레이어,Người chơi,ผู้เล่น,Pemain,玩家
+select_language,,,SELECT LANGUAGE,SELECCIONAR IDIOMA,SELECIONAR IDIOMA,SPRACHE WÄHLEN,SÉLECTIONNER LA LANGUE,ВЫБРАТЬ ЯЗЫК,言語を選択,언어 선택,CHỌN NGÔN NGỮ,เลือกภาษา,PILIH BAHASA,选择语言
+confirm_btn,,,CONFIRM,CONFIRMAR,CONFIRMAR,BESTÄTIGEN,CONFIRMER,ПОДТВЕРДИТЬ,確認する,확인하다,XÁC NHẬN,ยืนยัน,KONFIRMASI,确认
+open_btn,,,OPEN,ABRIR,ABRIR,ÖFFNEN,OUVRIR,ОТКРЫТЬ,開く,열기,MỞ,เปิด,BUKA,打开
+,,,,,,,,,,,,,,
+place_here_btn,,,PLACE HERE,PONLO AQUÍ,COLOQUE AQUI,HIER PLATZIEREN,PLACEZ ICI,ПОЛОЖИТЕ ЗДЕСЬ,ここに置く,여기 두기,ĐẶT Ở ĐÂY,วางที่นี่,TEMPATKAN DI SINI,放在这里
+grab_trap_btn,,,GRAB TRAP,AGARRAR TRAMPAS,PEGAR ARMADILHAS,FALLEN FANGEN,ATTRAPER PIÈGE,СХВАТИТЬ ЛОВУШКУ,トラップを取る,덫을 잡다,LẤY BẪY,จับกับดัก,AMBIL PERANGKAP,抓捕陷阱
+exit_btn,,,EXIT,SALIDA,SAÍDA,AUSGANG,SORTIE,ВЫХОД,EXIT,출구,THOÁT,ทางออก,KELUAR,出口
+stay_btn,,,STAY,QUEDARSE,FICAR,BLEIBEN,RESTER,ОСТАНОВИТЬСЯ,とどまる,머무르다,Ở LẠI,อยู่,TETAP,停留
+continue_btn,,,CONTINUE,CONTINUAR,CONTINUAR,WEITERFÜHREN,CONTINUER,ПРОДОЛЖИТЬ,続ける,계속하다,TIẾP TỤC,ต่อไป,LANJUTKAN,继续
+replay_btn,,,REPLAY,REPRODUCIR,REJOGAR,WIEDERHOLEN,REJOUER,ПЕРЕИГРАТЬ,やり直す,다시 하다,CHƠI LẠI,เล่นใหม่,PUTAR ULANG,重玩
+get_new_btn,,,GET NEW,NUEVO,NOVO,NEU,NOUVEAU,НОВОЕ,新しい取得,새로 얻기,LẤY MỚI,ใหม่,DAPAT BARU,获取新物
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+no_ads_desc_1,,,TIRED OF ADS?,¿CANSADO DE LOS ANUNCIOS?,CANSADO DE ANÚNCIOS?,WERBUNG GENUG?,MARRE DES ANNONCES?,УСТАЛИ ОТ РЕКЛАМЫ?,広告にうんざり？,광고 지겹지 않아요?,Chán quảng cáo?,เบื่อโฆษณาหรือยัง?,Bosan dengan iklan?,厌倦广告了吗？
+no_ads_desc_2,,,"DON'T WORRY, WE HAVE...","NO TE PREOCUPES, TENEMOS...","NÃO SE PREOCUPE, NÓS TEMOS...","MACH DIR KEINE SORGEN, WIR HABEN...","NE T'INQUIÈTE PAS, NOUS AVONS...","НЕ БЕСПОКОЙТЕСЬ, У НАС ЕСТЬ...",ご心配なく、私たちには...,"걱정 마세요, 우리는...","Đừng lo, chúng tôi có...",ไม่ต้องห่วง เรามี...,"Jangan khawatir, kami punya...",不用担心，我们有...
+no_ads_desc_3,,,NO ADS PACK,NO ADS PACK,NO ADS PACK,NO ADS PACK,NO ADS PACK,NO ADS PACK,広告なしパック,광고 없는 팩,NO ADS PACK,NO ADS PACK,NO ADS PACK,无广告包
+,,,,,,,,,,,,,,
+confirm_title,,,Confirmation,Confirmación,Confirmação,Bestätigung,Confirmation,Подтверждение,確認,확인,Xác nhận,การยืนยัน,Konfirmasi,确认
+quit_app_content,,,"After changing the resolution, you need to restart the app for the changes to take effect.","Después de cambiar la resolución, debes reiniciar la aplicación para que los cambios surtan efecto.","Após alterar a resolução, você precisa reiniciar o aplicativo para que as alterações tenham efeito.","Nachdem Sie die Auflösung geändert haben, müssen Sie die App neu starten, damit die Änderungen wirksam werden.","Après avoir modifié la résolution, vous devez redémarrer l'application pour que les modifications prennent effet.","После изменения разрешения необходимо перезапустить приложение, чтобы изменения вступили в силу.",解像度を変更した後、変更を有効にするためにアプリを再起動する必要があります。,해상도를 변경한 후 변경 사항을 적용하려면 앱을 다시 시작해야 합니다.,"Sau khi thay đổi độ phân giải, bạn cần khởi động lại ứng dụng để thay đổi có hiệu lực.",หลังจากเปลี่ยนความละเอียด คุณจะต้องรีสตาร์ทแอปเพื่อให้การเปลี่ยนแปลงมีผล,"Setelah mengubah resolusi, Anda perlu memulai ulang aplikasi agar perubahan diterapkan.",更改分辨率后，您需要重新启动应用程序才能使更改生效。
+ok,,,Ok,De acuerdo,OK,OK,D'accord,Хорошо,わかりました,좋아요,Được rồi,ตกลง,Oke,好的
+yes,,,Yes,Sí,Sim,Ja,Oui,Да,はい,예,Đúng,ใช่,Ya,是的
+no,,,No,No,Não,NEIN,Non,Нет,いいえ,아니요,KHÔNG,เลขที่,TIDAK,不
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+SmallFont,Font,,NotoSans-Medium,NotoSans-Medium,NotoSans-Medium,NotoSans-Medium,NotoSans-Medium,NotoSans-Medium,NotoSansJP-Medium,NotoSansKR-Medium,NotoSans-Medium,NotoSansThai-Medium,NotoSans-Medium,NotoSansSC-Medium
+TextMeshFontSmart,TextMeshPFont,,NotoSans-Medium SDF,NotoSans-Medium SDF,NotoSans-Medium SDF,NotoSans-Medium SDF,NotoSans-Medium SDF,NotoSans-Medium SDF,NotoSansJP-Medium SDF,NotoSansKR-Medium SDF,NotoSans-Medium SDF,NotoSansThai-Medium SDF,NotoSans-Medium SDF,NotoSansSC-Medium SDF
+!!FONT_SETTING,Font,,NotoSans-Medium,NotoSans-Medium,NotoSans-Medium,NotoSans-Medium,NotoSans-Medium,NotoSans-Medium,NotoSansJP-Medium,NotoSansKR-Medium,NotoSans-Medium,NotoSansThai-Medium,NotoSans-Medium,NotoSansSC-Medium
