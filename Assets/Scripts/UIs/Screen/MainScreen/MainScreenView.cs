@@ -7,10 +7,10 @@ namespace UnityTemplateProjects.UIs.Screen.MainScreen
     using GameFoundation.Scripts.Utilities;
     using GameFoundation.Scripts.Utilities.LogService;
     using GameFoundation.Signals;
-    using MiraiGame.Script.Services;
+    using MyGame.Script.Services;
     using HyperGames.UnityTemplate.UnityTemplate.Interfaces;
     using HyperGames.UnityTemplate.UnityTemplate.Services.Vibration;
-    using MiraiGame.Script.UIs.Common;
+    using MyGame.Script.UIs.Common;
     using UnityEngine;
     using UnityEngine.UI;
 

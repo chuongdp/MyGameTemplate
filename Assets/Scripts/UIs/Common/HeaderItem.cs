@@ -1,10 +1,10 @@
-namespace MiraiGame.Script.UIs.Common
+namespace MyGame.Script.UIs.Common
 {
     using GameFoundation.Scripts.AssetLibrary;
     using GameFoundation.Scripts.UIModule.MVP;
     using GameFoundation.Scripts.UIModule.ScreenFlow.Managers;
     using HyperGame.Script.NetworkRequest.Services;
-    using MiraiGame.Script.UIs.Popups;
+    using MyGame.Script.UIs.Popups;
     using UnityEngine;
     using UnityEngine.UI;
 

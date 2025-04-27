@@ -1,7 +1,7 @@
-namespace MiraiGame.Script.Installer
+namespace MyGame.Script.Installer
 {
     using GameFoundation.DI;
-    using MiraiGame.Script.Services;
+    using MyGame.Script.Services;
     using UnityEngine;
     using VContainer;
 

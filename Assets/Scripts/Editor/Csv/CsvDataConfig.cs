@@ -1,4 +1,4 @@
-namespace MiraiGame.Script.Editor.Csv
+namespace MyGame.Script.Editor.Csv
 {
     using System;
     using System.Collections.Generic;

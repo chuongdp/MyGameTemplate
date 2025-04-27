@@ -6,9 +6,9 @@ namespace Installer
     using GameFoundation.Signals;
     using Gameplay.StateMachine.Game;
     using HyperGame.Script.Services.Internet;
-    using MiraiGame.Script.Signals;
-    using MiraiGame.Script.Systems;
-    using MiraiGame.Script.Utilities;
+    using MyGame.Script.Signals;
+    using MyGame.Script.Systems;
+    using MyGame.Script.Utilities;
     using UnityTemplateProjects.UIs.Screen.MainScreen;
     using VContainer.Unity;
 

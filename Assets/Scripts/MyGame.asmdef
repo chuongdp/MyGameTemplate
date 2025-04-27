@@ -1,6 +1,6 @@
 {
-    "name": "MiraiGame",
-    "rootNamespace": "MiraiGame.Script",
+    "name": "MyGame",
+    "rootNamespace": "MyGame.Script",
     "references": [
         "GUID:9d20e26c2be6a8d4a869b272e4e70870",
         "GUID:e7f0ab2ac424208429d649986281d535",
@@ -19,10 +19,8 @@
         "GUID:f072e216975d56b4f9ab0e22fb7a76a5",
         "GUID:f51af22c92914bc6b143539603c8f57d",
         "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
-        "GUID:df82dc75b5e64394aac8a5e7db699f85",
         "GUID:4139e191aa32f459e9eb2e331225ad7e",
         "GUID:b4318b6f3695442c4983c360248781db",
-        "GUID:3fe9543c76a844787a4aad53c0778fa9",
         "GUID:9536b5ca7bf855f4488ba6115eab4ece"
     ],
     "includePlatforms": [],

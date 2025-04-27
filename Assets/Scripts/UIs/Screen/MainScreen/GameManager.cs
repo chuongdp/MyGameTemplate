@@ -4,7 +4,7 @@ namespace UnityTemplateProjects.UIs.Screen.MainScreen
     using GameFoundation.Signals;
     using HyperGames.UnityTemplate.UnityTemplate.Interfaces;
     using HyperGames.UnityTemplate.UnityTemplate.Services.Vibration;
-    using MiraiGame.Script.Signals;
+    using MyGame.Script.Signals;
     using UnityEngine;
 
     public class GameManager : MonoBehaviour

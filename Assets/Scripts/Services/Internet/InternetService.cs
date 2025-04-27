@@ -4,7 +4,7 @@ namespace HyperGame.Script.Services.Internet
     using Cysharp.Threading.Tasks;
     using GameFoundation.DI;
     using GameFoundation.Scripts.UIModule.ScreenFlow.Managers;
-    using MiraiGame.Script;
+    using MyGame.Script;
     using UnityEngine;
 
     public class InternetService : IInitializable, IInternetService

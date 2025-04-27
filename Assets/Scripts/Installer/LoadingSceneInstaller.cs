@@ -1,9 +1,9 @@
-namespace MiraiGame.Script.Installer
+namespace MyGame.Script.Installer
 {
     using VContainer;
     using GameFoundation.DI;
     using GameFoundation.Scripts.UIModule.Utilities;
-    using MiraiGame.Script;
+    using MyGame.Script;
 
     public class LoadingSceneScope : SceneScope
     {

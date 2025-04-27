@@ -1,4 +1,4 @@
-namespace MiraiGame.Script.UIs.Screen.ChapterSelection
+namespace MyGame.Script.UIs.Screen.ChapterSelection
 {
     using GameFoundation.Scripts.UIModule.Adapter;
 

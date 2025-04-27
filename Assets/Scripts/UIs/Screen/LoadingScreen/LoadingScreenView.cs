@@ -1,4 +1,4 @@
-namespace MiraiGame.Script
+namespace MyGame.Script
 {
     using BlueprintFlow.BlueprintControlFlow;
     using Cysharp.Threading.Tasks;
@@ -7,7 +7,7 @@ namespace MiraiGame.Script
     using GameFoundation.Scripts.Utilities.LogService;
     using GameFoundation.Scripts.Utilities.ObjectPool;
     using GameFoundation.Signals;
-    using MiraiGame.Script.Services;
+    using MyGame.Script.Services;
     using HyperGames.UnityTemplate.UnityTemplate.Scenes.Loading;
     using HyperGames.UnityTemplate.UnityTemplate.UserData;
 

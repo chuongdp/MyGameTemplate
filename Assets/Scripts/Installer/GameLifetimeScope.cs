@@ -1,4 +1,4 @@
-namespace MiraiGame.Script.Installer
+namespace MyGame.Script.Installer
 {
     using VContainer;
     using VContainer.Unity;
