@@ -31,7 +31,6 @@ namespace UnityTemplateProjects.UIs.Screen.MainScreen
 
         private readonly SignalBus              signalBus;
         private readonly ILogService            logger;
-        private readonly AdServices             adServices;
         private readonly IAudioService          audioService;
         private readonly IVibrationService      vibrationService;
         private readonly IDependencyContainer   container;
@@ -42,7 +41,6 @@ namespace UnityTemplateProjects.UIs.Screen.MainScreen
 
         public MainScreenPresenter(SignalBus              signalBus,
                                    ILogService            logger,
-                                   AdServices             adServices,
                                    IAudioService          audioService,
                                    IVibrationService      vibrationService,
                                    IDependencyContainer   container,
@@ -50,7 +48,6 @@ namespace UnityTemplateProjects.UIs.Screen.MainScreen
         {
             this.signalBus              = signalBus;
             this.logger                 = logger;
-            this.adServices             = adServices;
             this.audioService           = audioService;
             this.vibrationService       = vibrationService;
             this.container              = container;

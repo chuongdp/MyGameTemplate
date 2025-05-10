@@ -8,7 +8,6 @@ namespace MiraiGame.Script
     using GameFoundation.Signals;
     using UnityEngine.UI;
     using System.Collections.Generic;
-    using DVAH;
     using UnityEngine;
     using UnityEngine.Events;
 #if UNITY_ANDROID
@@ -30,8 +29,8 @@ namespace MiraiGame.Script
         private readonly SignalBus   signalBus;
         private readonly ILogService logger;
 
-        public UIPopupRateUsPresenter(SignalBus   signalBus,
-                                      ILogService logger) : base(signalBus, logger)
+        public UIPopupRateUsPresenter(SignalBus signalBus,
+            ILogService logger) : base(signalBus, logger)
         {
             this.signalBus = signalBus;
             this.logger    = logger;
@@ -96,56 +95,9 @@ namespace MiraiGame.Script
 #elif UNITY_IOS
             linkApp = "itms-apps://itunes.apple.com/app/id" + appleAppId;
 #elif UNITY_ANDROID
-            //linkApp = "market://details?id=" + Application.identifier;
-            await this.RequestReviewsAsync(null);
+            linkApp = "market://details?id=" + Application.identifier;
 #endif
             Application.OpenURL(linkApp);
         }
-
-#if UNITY_ANDROID
-
-        private ReviewManager  reviewManager;
-        private PlayReviewInfo playReviewInfo;
-
-        private async UniTask RequestReviewsAsync(UnityAction afterRateAction)
-        {
-            Debug.Log(CONSTANT.Prefix + $"==> RequestReviews-----1 <==");
-            this.reviewManager = new ReviewManager();
-
-            var requestFlowOperation = this.reviewManager.RequestReviewFlow();
-            Debug.Log(CONSTANT.Prefix + $"==> RequestReviews-----2 <==");
-
-            await requestFlowOperation.ToUniTask();
-            Debug.Log(CONSTANT.Prefix + $"==> RequestReviews-----3 <==");
-
-            if (requestFlowOperation.Error != ReviewErrorCode.NoError)
-            {
-                Debug.LogError(CONSTANT.Prefix + $"==> requestFlowOperation-----4-error: {requestFlowOperation.Error} <==");
-
-                return;
-            }
-
-            Debug.Log(CONSTANT.Prefix + $"==> RequestReviews-----5 <==");
-            this.playReviewInfo = requestFlowOperation.GetResult();
-
-            var launchFlowOperation = this.reviewManager.LaunchReviewFlow(this.playReviewInfo);
-            Debug.Log(CONSTANT.Prefix + $"==> RequestReviews-----6 <==");
-
-            await launchFlowOperation.ToUniTask();
-            Debug.Log(CONSTANT.Prefix + $"==> RequestReviews-----7 <==");
-
-            this.playReviewInfo = null;
-
-            if (launchFlowOperation.Error != ReviewErrorCode.NoError)
-            {
-                Debug.LogError(CONSTANT.Prefix + $"==> launchFlowOperation-----8-error: {launchFlowOperation.Error} <==");
-
-                return;
-            }
-
-            Debug.Log(CONSTANT.Prefix + $"==> RequestReviews-----9 <==");
-            afterRateAction?.Invoke();
-        }
-#endif
     }
 }

@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e905eef-d751-4148-8790-f33eb9848dea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MyGameTemplate/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MyGameTemplate/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MyGameTemplate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MyGameTemplate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiNetwork.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudio.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Network.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/ComparisonType.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/ComparisonType.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/DisablingType.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/DisablingType.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/DrawIfAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/DrawIfAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/FieldNotFoundException.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/FieldNotFoundException.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/NumericType.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/NumericType.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/NumericTypeExpectedException.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/NumericTypeExpectedException.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/PropertyNotFoundException.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/PropertyNotFoundException.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/PropertyOrFieldNotFoundException.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/PropertyOrFieldNotFoundException.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/ReflectionUtil.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/ReflectionUtil.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/SerializedPropertyExtentions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/SerializedPropertyExtentions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/TypeUtilities.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/TypeUtilities.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/DisableBitcode.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/DisableBitcode.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/DrawIfPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/DrawIfPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/MenuEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/MenuEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/MiraiCoroutineEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/MiraiCoroutineEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/MiraiSDK.Editor.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/MiraiSDK.Editor.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/MiraiSDKIntegrationManagerWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/MiraiSDKIntegrationManagerWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/OnPostBuildSetting.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/OnPostBuildSetting.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/PlayGameEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/PlayGameEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/StringConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/StringConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/ToolBarHnn.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/ToolBarHnn.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Images.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Images/ad button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Images/ad button.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Images/open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Images/open.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/CONSTANT.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/CONSTANT.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/MemoryChecker.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/MemoryChecker.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/RequestBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/RequestBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/SerializableDictionary.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/SerializableDictionary.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/SimpleJSON.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/SimpleJSON.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/Singleton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/Singleton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/UnityMainThread.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/UnityMainThread.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/UpdateManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/UpdateManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad16x9.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad16x9.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad1x1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad1x1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad1x2.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad1x2.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad235x100.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad235x100.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad2x1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad2x1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad2x3.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad2x3.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad3x1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad3x1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad3x2.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad3x2.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad3x4.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad3x4.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad4x15.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad4x15.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad4x3.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad4x3.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad5x1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad5x1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad5x4.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad5x4.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad6x1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad6x1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad6x5.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad6x5.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad8x1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad8x1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad9x16.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad9x16.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/AdNative.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/AdNative.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/Aoa.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/Aoa.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/Banner.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/Banner.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/Interstitial.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/Interstitial.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/Mrecs.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/Mrecs.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/NativeDefault.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/NativeDefault.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/NativeInGame.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/NativeInGame.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/NoAd.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/NoAd.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/Rewarded.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/Rewarded.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/FirebasePopUp.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/FirebasePopUp.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/google-services.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/google-services.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/ATT.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/ATT/PostBuildStep.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/ATT/PostBuildStep.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdManagerDemo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdManagerDemo.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/AdUnitModule.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/AdUnitModule.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/AoaModule.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/AoaModule/AdUnitModuleAoa_Admob.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/AoaModule/AdUnitModuleAoa_Admob.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/AoaModule/AdUnitModuleAoa_Base.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/AoaModule/AdUnitModuleAoa_Base.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/AoaModule/AdUnitModuleAoa_Max.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/AoaModule/AdUnitModuleAoa_Max.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/AoaModule/AdUnitModuleAoa_Pangle.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/AoaModule/AdUnitModuleAoa_Pangle.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/BannerModule.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/BannerModule/AdUnitModuleBanner_Admob.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/BannerModule/AdUnitModuleBanner_Admob.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/BannerModule/AdUnitModuleBanner_Base.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/BannerModule/AdUnitModuleBanner_Base.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/BannerModule/AdUnitModuleBanner_IronSource.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/BannerModule/AdUnitModuleBanner_IronSource.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/BannerModule/AdUnitModuleBanner_Max.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/BannerModule/AdUnitModuleBanner_Max.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/BannerModule/AdUnitModuleBanner_Yandex.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/BannerModule/AdUnitModuleBanner_Yandex.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/CollapseModule.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/CollapseModule/AdUnitModuleCollapse_Admob.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/CollapseModule/AdUnitModuleCollapse_Admob.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/CollapseModule/AdUnitModuleCollapse_Base.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/CollapseModule/AdUnitModuleCollapse_Base.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/CollapseModule/AdUnitModuleCollapse_IronSource.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/CollapseModule/AdUnitModuleCollapse_IronSource.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/InterModule.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/InterModule/AdUnitModuleInter_Admob.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/InterModule/AdUnitModuleInter_Admob.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/InterModule/AdUnitModuleInter_Base.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/InterModule/AdUnitModuleInter_Base.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/InterModule/AdUnitModuleInter_IronSource.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/InterModule/AdUnitModuleInter_IronSource.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/InterModule/AdUnitModuleInter_Max.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/InterModule/AdUnitModuleInter_Max.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/InterModule/AdUnitModuleInter_Yandex.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/InterModule/AdUnitModuleInter_Yandex.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/MrecsModule.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/MrecsModule/AdUnitModuleMrecs_Admob.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/MrecsModule/AdUnitModuleMrecs_Admob.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/MrecsModule/AdUnitModuleMrecs_Base.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/MrecsModule/AdUnitModuleMrecs_Base.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/MrecsModule/AdUnitModuleMrecs_IronSource.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/MrecsModule/AdUnitModuleMrecs_IronSource.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/MrecsModule/AdUnitModuleMrecs_Max.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/MrecsModule/AdUnitModuleMrecs_Max.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdNativeObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdNativeObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdNativeObject_GO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdNativeObject_GO.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdNativeObject_UI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdNativeObject_UI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdUnitModuleNative_Admob.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdUnitModuleNative_Admob.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdUnitModuleNative_Base.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdUnitModuleNative_Base.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdUnitModuleNative_Pangle.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdUnitModuleNative_Pangle.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/DestroyListener.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/DestroyListener.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeOverlayModule.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeOverlayModule/AdUnitModuleNativeOverlay_Admob.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeOverlayModule/AdUnitModuleNativeOverlay_Admob.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeOverlayModule/AdUnitModuleNativeOverlay_Base.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeOverlayModule/AdUnitModuleNativeOverlay_Base.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/RewardModule.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/RewardModule/AdUnitModuleReward_IronSource.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/RewardModule/AdUnitModuleReward_IronSource.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/RewardModule/AdUnitmoduleReward_Admob.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/RewardModule/AdUnitmoduleReward_Admob.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/RewardModule/AdUnitmoduleReward_Base.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/RewardModule/AdUnitmoduleReward_Base.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/RewardModule/AdUnitmoduleReward_Max.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/RewardModule/AdUnitmoduleReward_Max.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/RewardModule/AdUnitmoduleReward_Yandex.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/RewardModule/AdUnitmoduleReward_Yandex.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/ControlNativeTrick.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/ControlNativeTrick.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/IAppStateChange.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/IAppStateChange.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/AdBridge.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/AdBridge.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_Admob.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_Admob.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_Applovin.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_Applovin.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_Base.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_Base.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_IronSource.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_IronSource.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_Pangle.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_Pangle.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_Yandex.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_Yandex.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/NoAdPopUp.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/NoAdPopUp.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/AppFlyer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/AppFlyer/AppFlyerBridge.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/AppFlyer/AppFlyerBridge.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/DVAH_Data.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/DVAH_Data.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Firebase.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Firebase/FireBaseBridge.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Firebase/FireBaseBridge.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Firebase/FireBaseManagerDemo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Firebase/FireBaseManagerDemo.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/GDPRScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/GDPRScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/IAP.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/IAP/IAPManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/IAP/IAPManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/TrackingDefault.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/TrackingDefault.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Installer/GameServicesVContainer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Installer/GameServicesVContainer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scenes/Splash/SplashManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scenes/Splash/SplashManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Services/AdServices.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Services/AdServices.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Services/AnalyticsServices.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Services/AnalyticsServices.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Services/Interface.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Services/Interface/IAdServices.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Services/Interface/IAdServices.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Services/Interface/IAnalyticsServices.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Services/Interface/IAnalyticsServices.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UIs/Popups/UIPopupRateUs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UIs/Popups/UIPopupRateUs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UIs/Screen/LoadingScreen/LoadingScreenView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UIs/Screen/LoadingScreen/LoadingScreenView.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UIs/Screen/MainScreen/MainScreenView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UIs/Screen/MainScreen/MainScreenView.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2wJjxKFeRqdSMnTvNuYv5sAt6H2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Attach to Unity Editor.Attach to Unity Editor.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "develop__2022__LTS",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.55f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath H:\ChuongDP\MyGameTemplate -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="H:\ChuongDP\MyGameTemplate" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.55f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath H:\ChuongDP\MyGameTemplate -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="H:\ChuongDP\MyGameTemplate" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e905eef-d751-4148-8790-f33eb9848dea" name="Changes" comment="" />
+      <created>1745766815645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745766815645</updated>
+      <workItem from="1745766816802" duration="3032000" />
+      <workItem from="1745774032741" duration="80000" />
+      <workItem from="1745774136107" duration="55000" />
+      <workItem from="1745774202618" duration="1271000" />
+      <workItem from="1745859093868" duration="1208000" />
+      <workItem from="1746871290428" duration="1245000" />
+      <workItem from="1746873295326" duration="2196000" />
+      <workItem from="1746877213710" duration="702000" />
+      <workItem from="1746877950703" duration="770000" />
+      <workItem from="1746895665931" duration="305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Assets/GameFoundation" />
+    </ignored-roots>
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Installer/GameLifetimeScope.cs</url>
+          <line>18</line>
+          <properties documentPath="H:\ChuongDP\MyGameTemplate\Assets\Scripts\Installer\GameLifetimeScope.cs" containingFunctionPresentation="Method 'Configure'">
+            <startOffsets>
+              <option value="564" />
+            </startOffsets>
+            <endOffsets>
+              <option value="611" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

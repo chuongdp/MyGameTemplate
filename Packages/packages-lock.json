@@ -31,7 +31,7 @@
       "url": "https://package.openupm.com"
     },
     "com.gdk.core": {
-      "version": "file:MiraiGameFoundation",
+      "version": "file:GameFoundation",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
