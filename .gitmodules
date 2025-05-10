@@ -1,9 +1,0 @@
-[submodule "Assets/UITemplate"]
-	path = Assets/UITemplate
-	url = git@github.com:chuongdp/UITemplate.git
-[submodule "Assets/ThirdPartyServices"]
-	path = Assets/ThirdPartyServices
-	url = git@github.com:chuongdp/ThirdPartyServices.git
-[submodule "Assets/Network"]
-	path = Assets/Network
-	url = git@github.com:chuongdp/Network.git

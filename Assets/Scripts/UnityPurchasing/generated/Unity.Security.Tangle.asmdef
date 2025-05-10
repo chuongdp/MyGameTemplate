@@ -1,9 +1,0 @@
-{
-    "name": "Unity.Security.Tangle",
-    "references": [
-        "Unity.Services.Core",
-        "UnityEngine.Purchasing.Security",
-        "UnityEngine.Purchasing.SecurityCore",
-        "UnityEngine.Purchasing.SecurityStub"
-    ]
-}
