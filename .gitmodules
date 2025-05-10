@@ -1,12 +1,12 @@
+[submodule "Assets/Material"]
+	path = Assets/Material
+	url = git@github.com:chuongdp/Material.git
 [submodule "Assets/UITemplate"]
 	path = Assets/UITemplate
 	url = git@github.com:chuongdp/UITemplate.git
-[submodule "Assets/ThirdPartyServices"]
-	path = Assets/ThirdPartyServices
-	url = git@github.com:chuongdp/ThirdPartyServices.git
-[submodule "Assets/GameFoundation"]
-	path = Assets/GameFoundation
-	url = git@github.com:chuongdp/GameFoundation.git
 [submodule "Assets/Network"]
 	path = Assets/Network
 	url = git@github.com:chuongdp/Network.git
+[submodule "Packages/GameFoundation"]
+	path = Packages/GameFoundation
+	url = git@github.com:chuongdp/GameFoundation.git

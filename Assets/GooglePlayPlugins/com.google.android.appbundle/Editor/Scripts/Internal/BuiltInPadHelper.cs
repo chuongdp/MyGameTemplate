@@ -32,7 +32,7 @@ namespace Google.Android.AppBundle.Editor.Internal
         public static bool ProjectUsesBuiltInPad()
         {
             return EditorSupportsPad() && EditorUserBuildSettings.buildAppBundle &&
-                   (ProjectHasAndroidPacks() || PlayerSettings.Android.splitApplicationBinary);
+                   (ProjectHasAndroidPacks() || PlayerSettings.Android.useAPKExpansionFiles);
         }
 
         /// <summary>

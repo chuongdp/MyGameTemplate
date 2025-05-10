@@ -1,4 +1,4 @@
-namespace MyGame.Script.UIs.Screen.ChapterSelection
+namespace MiraiGame.Script.UIs.Screen.ChapterSelection
 {
     using System.Collections.Generic;
     using System.Diagnostics;
@@ -12,9 +12,9 @@ namespace MyGame.Script.UIs.Screen.ChapterSelection
     using GameFoundation.Scripts.UIModule.ScreenFlow.Signals;
     using GameFoundation.Scripts.Utilities.LogService;
     using GameFoundation.Signals;
-    using MyGame.Script.Blueprints;
-    using MyGame.Script.Services;
-    using MyGame.Script.UIs.Common;
+    using MiraiGame.Script.Blueprints;
+    using MiraiGame.Script.Services;
+    using MiraiGame.Script.UIs.Common;
     using TMPro;
     using UnityEngine;
     using UnityEngine.ResourceManagement.AsyncOperations;

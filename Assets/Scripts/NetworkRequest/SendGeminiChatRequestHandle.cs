@@ -36,8 +36,34 @@ namespace HyperGame.Script.NetworkRequest
         [JsonProperty("contents")] public List<GeminiContent> Contents;
     }
 
+    public class GeminiResponseData
+    {
+        [JsonProperty("content")]      public GeminiContent Contents;
+        [JsonProperty("finishReason")] public string        FinishReason;
+        [JsonProperty("avgLogprobs")]  public double        AvgLogprobs;
+    }
+
+    public class GeminiUsageMetadata
+    {
+        [JsonProperty("promptTokenCount")]     public int                           PromptTokenCount;
+        [JsonProperty("candidatesTokenCount")] public int                           CandidatesTokenCount;
+        [JsonProperty("totalTokenCount")]      public int                           TotalTokenCount;
+        [JsonProperty("promptTokensDetails")]  public List<GeminiPromptTokenDetail> PromptTokenDetail;
+
+        [JsonProperty("candidatesTokensDetails")]
+        public List<GeminiPromptTokenDetail> CandidatesTokenDetail;
+    }
+
+    public class GeminiPromptTokenDetail
+    {
+        [JsonProperty("modality")]   public string Modality;
+        [JsonProperty("tokenCount")] public int    TokenCount;
+    }
+
     public class GeminiChatResponse
     {
-        [JsonProperty("candidates")] public List<GeminiRequestData> Candidates;
+        [JsonProperty("candidates")]    public List<GeminiResponseData> Candidates;
+        [JsonProperty("usageMetadata")] public GeminiUsageMetadata      UsageMetadata;
+        [JsonProperty("modelVersion")]  public string                   ModelVersion;
     }
 }

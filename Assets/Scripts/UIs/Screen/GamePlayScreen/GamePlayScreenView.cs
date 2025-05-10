@@ -1,4 +1,4 @@
-﻿namespace MyGame.Script.UIs.Screen.GamePlayScreen
+﻿namespace MiraiGame.Script.UIs.Screen.GamePlayScreen
 {
     using Cysharp.Threading.Tasks;
     using GameFoundation.Scripts.AssetLibrary;

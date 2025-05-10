@@ -6,9 +6,9 @@ namespace Installer
     using GameFoundation.Signals;
     using Gameplay.StateMachine.Game;
     using HyperGame.Script.Services.Internet;
-    using MyGame.Script.Signals;
-    using MyGame.Script.Systems;
-    using MyGame.Script.Utilities;
+    using MiraiGame.Script.Signals;
+    using MiraiGame.Script.Systems;
+    using MiraiGame.Script.Utilities;
     using UnityTemplateProjects.UIs.Screen.MainScreen;
     using VContainer.Unity;
 
@@ -29,7 +29,12 @@ namespace Installer
             GameStateMachineInstall.Install(builder);
         }
 
-        private void SignalBusInstaller(IContainerBuilder builder) { builder.DeclareSignal<AttackSignal>(); }
+        private void SignalBusInstaller(IContainerBuilder builder)
+        {
+            builder.DeclareSignal<AttackSignal>();
+            builder.DeclareSignal<PlayAnimationSignal>();
+            builder.DeclareSignal<PlayEmotionSignal>();
+        }
 
         private void SystemInstall(IContainerBuilder builder) { builder.Register<UserInputSystem>(Lifetime.Singleton).AsInterfacesAndSelf(); }
 

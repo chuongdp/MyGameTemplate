@@ -1,0 +1,10 @@
+Id,AnimationName,CharacterStatus,TriggerName
+1,Face_SmileA,SmileA,emo1
+2,Face_SmileB,SmileB,emo2
+3,Face_Ang1,ANG1,emo3
+4,Face_Ang2,ANG2,emo4
+5,Face_Ang3,ANG3,emo5
+6,Face_SadA,SadA,emo6
+7,Face_SadB,SadB,emo7
+8,Face_Surprise,Surprise,emo8
+9,Face_EyeClose,EyeClose,emo9

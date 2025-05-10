@@ -116,7 +116,7 @@ namespace Google.Android.AppBundle.Editor.Internal.BuildTools
                 buildToolLogger.DisplayOptOutDialog(message, "androidPackError");
             }
 
-            if (PlayerSettings.Android.splitApplicationBinary)
+            if (PlayerSettings.Android.useAPKExpansionFiles)
             {
                 string messagePrefix;
                 if (BuiltInPadHelper.EditorSupportsPad())
@@ -137,7 +137,7 @@ namespace Google.Android.AppBundle.Editor.Internal.BuildTools
                     AssetDeliveryWindow.SeparateAssetsLabel);
                 if (buildToolLogger.DisplayActionableErrorDialog(message))
                 {
-                    PlayerSettings.Android.splitApplicationBinary = false;
+                    PlayerSettings.Android.useAPKExpansionFiles = false;
                 }
 
                 return false;

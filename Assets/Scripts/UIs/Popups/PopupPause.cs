@@ -1,4 +1,4 @@
-namespace MyGame.Script.UIs.Popups
+namespace MiraiGame.Script.UIs.Popups
 {
     using Cysharp.Threading.Tasks;
     using GameFoundation.Scripts.AssetLibrary;

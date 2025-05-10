@@ -2,7 +2,7 @@
 {
     using Gameplay.StateMachine.Game.Interface;
     using GameFoundation.Scripts.UIModule.ScreenFlow.Managers;
-    using MyGame.Script.UIs.Screen.GamePlayScreen;
+    using MiraiGame.Script.UIs.Screen.GamePlayScreen;
     using HyperGames.UnityTemplate.UnityTemplate.Others.StateMachine.Controller;
     using UnityEngine;
     using UnityTemplateProjects.UIs.Screen.MainScreen;

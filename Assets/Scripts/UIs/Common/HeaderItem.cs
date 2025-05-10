@@ -1,10 +1,10 @@
-namespace MyGame.Script.UIs.Common
+namespace MiraiGame.Script.UIs.Common
 {
     using GameFoundation.Scripts.AssetLibrary;
     using GameFoundation.Scripts.UIModule.MVP;
     using GameFoundation.Scripts.UIModule.ScreenFlow.Managers;
     using HyperGame.Script.NetworkRequest.Services;
-    using MyGame.Script.UIs.Popups;
+    using MiraiGame.Script.UIs.Popups;
     using UnityEngine;
     using UnityEngine.UI;
 
@@ -45,8 +45,7 @@ namespace MyGame.Script.UIs.Common
         private async void OnShopButtonClicked()
         {
             // Handle shop button click
-            var res = await this.apiHelper.SendGeminiChatRequest();
-            Debug.Log($"check response: {res.Candidates.Count}");
+            Debug.Log("Shop button clicked");
         }
 
         private void OnPauseButtonClicked()

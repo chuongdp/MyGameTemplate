@@ -1,4 +1,4 @@
-namespace MyGame.Script.Installer
+namespace MiraiGame.Script.Installer
 {
     using VContainer;
     using VContainer.Unity;
@@ -8,6 +8,7 @@ namespace MyGame.Script.Installer
     using HyperGame.Script;
     using HyperGame.Script.NetworkRequest.Services;
     using HyperGames.UnityTemplate;
+    using MiraiGame.Script.Installer;
     using UnityEngine.EventSystems;
 
     public sealed class GameLifetimeScope : LifetimeScope

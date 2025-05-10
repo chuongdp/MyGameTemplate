@@ -1,4 +1,4 @@
-namespace MyGame.Script.Signals
+namespace MiraiGame.Script.Signals
 {
     public class AttackSignal
     {

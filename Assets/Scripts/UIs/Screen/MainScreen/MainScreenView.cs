@@ -7,22 +7,28 @@ namespace UnityTemplateProjects.UIs.Screen.MainScreen
     using GameFoundation.Scripts.Utilities;
     using GameFoundation.Scripts.Utilities.LogService;
     using GameFoundation.Signals;
-    using MyGame.Script.Services;
+    using MiraiGame.Script.Services;
     using HyperGames.UnityTemplate.UnityTemplate.Interfaces;
     using HyperGames.UnityTemplate.UnityTemplate.Services.Vibration;
-    using MyGame.Script.UIs.Common;
-    using UnityEngine;
+    using MiraiGame.Script.Signals;
+    using MiraiGame.Script.UIs.Common;
     using UnityEngine.UI;
+    using UnityTemplateProjects.UIs.Screen.MainScreen.Chat;
 
     public class MainScreenView : BaseView
     {
-        public HeaderItem HeaderItem;
-        public Button     BtnAttack;
+        public HeaderItem         HeaderItem;
+        public Button             BtnPlayRandomAnimation;
+        public Button             BtnPlayRandomEmotion;
+        public Button             BtnShowChat;
+        public ChatWindowItemView ChatWindowItemView;
     }
 
     [ScreenInfo(nameof(MainScreenView))]
     public class MainScreenPresenter : BaseScreenPresenter<MainScreenView>
     {
+        private const string TutorialName = "control";
+
         private readonly SignalBus              signalBus;
         private readonly ILogService            logger;
         private readonly IAudioService          audioService;
@@ -30,14 +36,15 @@ namespace UnityTemplateProjects.UIs.Screen.MainScreen
         private readonly IDependencyContainer   container;
         private readonly LocalDataHandleService localDataHandleService;
 
-        private HeaderItemPresenter headerItemPresenter;
+        private HeaderItemPresenter     headerItemPresenter;
+        private ChatWindowItemPresenter chatWindowItemPresenter;
 
-        public MainScreenPresenter(SignalBus signalBus,
-            ILogService logger,
-            IAudioService audioService,
-            IVibrationService vibrationService,
-            IDependencyContainer container,
-            LocalDataHandleService localDataHandleService) : base(signalBus, logger)
+        public MainScreenPresenter(SignalBus              signalBus,
+                                   ILogService            logger,
+                                   IAudioService          audioService,
+                                   IVibrationService      vibrationService,
+                                   IDependencyContainer   container,
+                                   LocalDataHandleService localDataHandleService) : base(signalBus, logger)
         {
             this.signalBus              = signalBus;
             this.logger                 = logger;
@@ -55,21 +62,52 @@ namespace UnityTemplateProjects.UIs.Screen.MainScreen
 
         private void Init()
         {
-            this.View.BtnAttack.onClick.AddListener(this.OnAttackPressed);
+            this.View.BtnPlayRandomAnimation.onClick.AddListener(this.OnPlayRandomAnimationPressed);
+            this.View.BtnPlayRandomEmotion.onClick.AddListener(this.OnPlayRandomEmotionPressed);
+            this.View.BtnShowChat.onClick.AddListener(this.OnShowChatButtonPressed);
+            this.InitItems();
+        }
+
+        private void InitItems()
+        {
             this.headerItemPresenter ??= this.container.Instantiate<HeaderItemPresenter>();
             this.headerItemPresenter.SetView(this.View.HeaderItem);
             this.headerItemPresenter.BindData(new HeaderItemModel()
             {
-                IsPauseButtonVisible = true
+                IsPauseButtonVisible = false
             });
-
-            if (this.localDataHandleService.IsFirstTime)
-                this.InitTutorial();
+            
+            this.chatWindowItemPresenter ??= this.container.Instantiate<ChatWindowItemPresenter>();
+            this.chatWindowItemPresenter.SetView(this.View.ChatWindowItemView);
+            this.chatWindowItemPresenter.BindData(new ChatWindowItemModel
+            {
+                OnClose = () =>
+                {
+                    this.View.BtnShowChat.gameObject.SetActive(true);
+                }
+            });
+            this.chatWindowItemPresenter.OnViewReady();
         }
 
-        private void InitTutorial() { }
-
         public override UniTask BindData() { return UniTask.CompletedTask; }
+
+        private void OnShowChatButtonPressed()
+        {
+            this.View.ChatWindowItemView.gameObject.SetActive(true);
+            this.View.BtnShowChat.gameObject.SetActive(false);
+        }
+
+        private void OnPlayRandomAnimationPressed()
+        {
+            this.signalBus.Fire(new PlayAnimationSignal());
+            this.vibrationService.PlayPresetType(VibrationPresetType.LightImpact);
+        }
+
+        private void OnPlayRandomEmotionPressed()
+        {
+            this.signalBus.Fire(new PlayEmotionSignal());
+            this.vibrationService.PlayPresetType(VibrationPresetType.LightImpact);
+        }
 
         private void OnAttackPressed()
         {
@@ -80,7 +118,6 @@ namespace UnityTemplateProjects.UIs.Screen.MainScreen
         public override void Dispose()
         {
             base.Dispose();
-            this.View.BtnAttack.onClick.RemoveListener(this.OnAttackPressed);
 
             if (this.headerItemPresenter == null) return;
             this.headerItemPresenter.Dispose();

@@ -1,5 +1,6 @@
-namespace MyGame.Script
+namespace MiraiGame.Script
 {
+    using System.Collections;
     using Cysharp.Threading.Tasks;
     using GameFoundation.Scripts.UIModule.ScreenFlow.BaseScreen.Presenter;
     using GameFoundation.Scripts.UIModule.ScreenFlow.BaseScreen.View;
@@ -8,6 +9,10 @@ namespace MyGame.Script
     using UnityEngine.UI;
     using System.Collections.Generic;
     using UnityEngine;
+    using UnityEngine.Events;
+#if UNITY_ANDROID
+    using Google.Play.Review;
+#endif
 
     public class UIPopupRateUs : BaseView
     {
@@ -89,6 +94,8 @@ namespace MyGame.Script
             linkApp = "https://play.google.com/store/apps/details?id=" + Application.identifier;
 #elif UNITY_IOS
             linkApp = "itms-apps://itunes.apple.com/app/id" + appleAppId;
+#elif UNITY_ANDROID
+            linkApp = "market://details?id=" + Application.identifier;
 #endif
             Application.OpenURL(linkApp);
         }

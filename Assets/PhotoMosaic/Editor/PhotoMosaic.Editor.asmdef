@@ -1,0 +1,19 @@
+{
+    "name": "PhotoMosaic.Editor",
+    "rootNamespace": "",
+    "references": [
+        "PhotoMosaic.Scripts",
+        "Boxophobic.Utils.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
