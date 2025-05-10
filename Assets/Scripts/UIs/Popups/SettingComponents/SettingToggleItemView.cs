@@ -1,4 +1,4 @@
-namespace MiraiGame.Script.UIs.Popups.SettingComponents
+namespace Game.Script.UIs.Popups.SettingComponents
 {
     using System;
     using Cysharp.Threading.Tasks;

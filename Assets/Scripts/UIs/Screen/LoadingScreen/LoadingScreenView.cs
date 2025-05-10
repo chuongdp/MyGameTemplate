@@ -1,4 +1,4 @@
-namespace MiraiGame.Script
+namespace Game.Script
 {
     using BlueprintFlow.BlueprintControlFlow;
     using Cysharp.Threading.Tasks;
@@ -7,8 +7,8 @@ namespace MiraiGame.Script
     using GameFoundation.Scripts.Utilities.LogService;
     using GameFoundation.Scripts.Utilities.ObjectPool;
     using GameFoundation.Signals;
-    using HyperGames.UnityTemplate.UnityTemplate.Scenes.Loading;
-    using HyperGames.UnityTemplate.UnityTemplate.UserData;
+    using GameTemplate.UnityTemplate.Scenes.Loading;
+    using GameTemplate.UnityTemplate.UserData;
 
     public class LoadingScreenView : UnityTemplateLoadingScreenView
     {

@@ -3,10 +3,10 @@ namespace UnityTemplateProjects.UIs.Screen.MainScreen
     using System.Collections.Generic;
     using System.Linq;
     using Cysharp.Threading.Tasks;
+    using Game.Script.Blueprints;
+    using Game.Script.Signals;
     using GameFoundation.Scripts.AssetLibrary;
     using GameFoundation.Scripts.UIModule.MVP;
-    using MiraiGame.Script.Blueprints;
-    using MiraiGame.Script.Signals;
     using UnityEngine;
     using GameFoundation.Signals;
     using Random = UnityEngine.Random;

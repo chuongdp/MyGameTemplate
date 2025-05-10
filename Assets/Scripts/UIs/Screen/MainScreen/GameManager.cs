@@ -2,9 +2,9 @@ namespace UnityTemplateProjects.UIs.Screen.MainScreen
 {
     using GameFoundation.DI;
     using GameFoundation.Signals;
-    using HyperGames.UnityTemplate.UnityTemplate.Interfaces;
-    using HyperGames.UnityTemplate.UnityTemplate.Services.Vibration;
-    using MiraiGame.Script.Signals;
+    using GameTemplate.UnityTemplate.Interfaces;
+    using GameTemplate.UnityTemplate.Services.Vibration;
+    using Game.Script.Signals;
     using UnityEngine;
     using UnityEngine.Serialization;
 

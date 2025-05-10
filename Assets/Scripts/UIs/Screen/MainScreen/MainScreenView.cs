@@ -7,11 +7,11 @@ namespace UnityTemplateProjects.UIs.Screen.MainScreen
     using GameFoundation.Scripts.Utilities;
     using GameFoundation.Scripts.Utilities.LogService;
     using GameFoundation.Signals;
-    using MiraiGame.Script.Services;
-    using HyperGames.UnityTemplate.UnityTemplate.Interfaces;
-    using HyperGames.UnityTemplate.UnityTemplate.Services.Vibration;
-    using MiraiGame.Script.Signals;
-    using MiraiGame.Script.UIs.Common;
+    using Game.Script.Services;
+    using GameTemplate.UnityTemplate.Interfaces;
+    using GameTemplate.UnityTemplate.Services.Vibration;
+    using Game.Script.Signals;
+    using Game.Script.UIs.Common;
     using UnityEngine.UI;
     using UnityTemplateProjects.UIs.Screen.MainScreen.Chat;
 

@@ -1,4 +1,4 @@
-namespace MiraiGame.Script
+namespace Game.Script
 {
     using System.Collections;
     using Cysharp.Threading.Tasks;

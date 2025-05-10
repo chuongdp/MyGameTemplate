@@ -1,4 +1,4 @@
-namespace MiraiGame.Script.Services
+namespace Game.Script.Services
 {
     using GameFoundation.Scripts.Utilities.UserData;
     using LocalData;

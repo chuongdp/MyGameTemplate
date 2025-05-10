@@ -1,4 +1,4 @@
-namespace MiraiGame.Script.Signals
+namespace Game.Script.Signals
 {
     public class PlayAnimationSignal
     {

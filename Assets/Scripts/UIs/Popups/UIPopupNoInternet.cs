@@ -1,4 +1,4 @@
-namespace MiraiGame.Script
+namespace Game.Script
 {
     using Cysharp.Threading.Tasks;
     using GameFoundation.Scripts.UIModule.ScreenFlow.BaseScreen.Presenter;

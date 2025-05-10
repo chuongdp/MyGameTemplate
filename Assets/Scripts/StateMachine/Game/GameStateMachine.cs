@@ -7,7 +7,7 @@ namespace Gameplay.StateMachine.Game
     using Gameplay.StateMachine.Game.Interface;
     using GameFoundation.Signals;
     using HyperGames.HyperCasual.Others.StateMachine.Interface;
-    using HyperGames.UnityTemplate.UnityTemplate.Others.StateMachine.Controller;
+    using GameTemplate.UnityTemplate.Others.StateMachine.Controller;
 
     public class GameStateMachine : StateMachine, IInitializable
     {

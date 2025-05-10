@@ -6,7 +6,7 @@ using System.Net;
 using System.Text;
 using System.Collections.Generic;
 using System.Linq;
-using MiraiGame.Script.Editor.Csv;
+using Game.Script.Editor.Csv;
 using Newtonsoft.Json;
 
 public static class CsvHelper
