@@ -1,0 +1,1842 @@
+fileFormatVersion: 2
+guid: 4ec3877dc2f321042a59dc2cb712cd57
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Cat Shorthair Walk
+  - first:
+      74: -7734858681076845599
+    second: Cat Shorthair Walk Turn Right
+  - first:
+      74: -3806043699797358232
+    second: Cat Shorthair Walk Turn Left
+  - first:
+      74: 3750167358506489046
+    second: Cat Shorthair Run
+  - first:
+      74: -3620147957061520865
+    second: Cat Shorthair Run Turn Right
+  - first:
+      74: 2743319246863918796
+    second: Cat Shorthair Run Turn Left
+  - first:
+      74: 7717080270944463623
+    second: Cat Shorthair Walk Backwards
+  - first:
+      74: 6632952224277849934
+    second: Cat Shorthair Turn Right
+  - first:
+      74: -2919344347971429079
+    second: Cat Shorthair Turn Left
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Cat Shorthair Walk
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat Shorthair
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf/Cat Shorthair L Foot
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf/Cat Shorthair L Foot/Cat Shorthair L Toe0
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf/Cat Shorthair R Foot
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf/Cat Shorthair R Foot/Cat Shorthair R Toe0
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Bell
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm/Cat
+          Shorthair L Forearm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm/Cat
+          Shorthair L Forearm/Cat Shorthair L Hand
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          Jaw
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Ear
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Ear/Cat Shorthair L Ear02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Eye
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Whiskers
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Ear
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Ear/Cat Shorthair R Ear02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Eye
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Whiskers
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm/Cat
+          Shorthair R Forearm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm/Cat
+          Shorthair R Forearm/Cat Shorthair R Hand
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02/Cat Shorthair Tail03
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02/Cat Shorthair Tail03/Cat Shorthair Tail04
+        weight: 1
+      - path: Cat Shorthair Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 07a81bebff3b7e944a04ece39bee2873, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat Shorthair Walk Turn Right
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 25
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat Shorthair
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf/Cat Shorthair L Foot
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf/Cat Shorthair L Foot/Cat Shorthair L Toe0
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf/Cat Shorthair R Foot
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf/Cat Shorthair R Foot/Cat Shorthair R Toe0
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Bell
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm/Cat
+          Shorthair L Forearm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm/Cat
+          Shorthair L Forearm/Cat Shorthair L Hand
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          Jaw
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Ear
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Ear/Cat Shorthair L Ear02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Eye
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Whiskers
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Ear
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Ear/Cat Shorthair R Ear02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Eye
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Whiskers
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm/Cat
+          Shorthair R Forearm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm/Cat
+          Shorthair R Forearm/Cat Shorthair R Hand
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02/Cat Shorthair Tail03
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02/Cat Shorthair Tail03/Cat Shorthair Tail04
+        weight: 1
+      - path: Cat Shorthair Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 07a81bebff3b7e944a04ece39bee2873, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat Shorthair Walk Turn Left
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 50
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0.5
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat Shorthair
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf/Cat Shorthair L Foot
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf/Cat Shorthair L Foot/Cat Shorthair L Toe0
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf/Cat Shorthair R Foot
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf/Cat Shorthair R Foot/Cat Shorthair R Toe0
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Bell
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm/Cat
+          Shorthair L Forearm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm/Cat
+          Shorthair L Forearm/Cat Shorthair L Hand
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          Jaw
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Ear
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Ear/Cat Shorthair L Ear02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Eye
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Whiskers
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Ear
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Ear/Cat Shorthair R Ear02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Eye
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Whiskers
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm/Cat
+          Shorthair R Forearm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm/Cat
+          Shorthair R Forearm/Cat Shorthair R Hand
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02/Cat Shorthair Tail03
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02/Cat Shorthair Tail03/Cat Shorthair Tail04
+        weight: 1
+      - path: Cat Shorthair Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 07a81bebff3b7e944a04ece39bee2873, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat Shorthair Run
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 75
+      lastFrame: 91
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat Shorthair
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf/Cat Shorthair L Foot
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf/Cat Shorthair L Foot/Cat Shorthair L Toe0
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf/Cat Shorthair R Foot
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf/Cat Shorthair R Foot/Cat Shorthair R Toe0
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Bell
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm/Cat
+          Shorthair L Forearm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm/Cat
+          Shorthair L Forearm/Cat Shorthair L Hand
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          Jaw
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Ear
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Ear/Cat Shorthair L Ear02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Eye
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Whiskers
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Ear
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Ear/Cat Shorthair R Ear02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Eye
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Whiskers
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm/Cat
+          Shorthair R Forearm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm/Cat
+          Shorthair R Forearm/Cat Shorthair R Hand
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02/Cat Shorthair Tail03
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02/Cat Shorthair Tail03/Cat Shorthair Tail04
+        weight: 1
+      - path: Cat Shorthair Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 07a81bebff3b7e944a04ece39bee2873, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat Shorthair Run Turn Right
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 96
+      lastFrame: 112
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat Shorthair
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf/Cat Shorthair L Foot
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf/Cat Shorthair L Foot/Cat Shorthair L Toe0
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf/Cat Shorthair R Foot
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf/Cat Shorthair R Foot/Cat Shorthair R Toe0
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Bell
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm/Cat
+          Shorthair L Forearm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm/Cat
+          Shorthair L Forearm/Cat Shorthair L Hand
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          Jaw
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Ear
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Ear/Cat Shorthair L Ear02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Eye
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Whiskers
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Ear
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Ear/Cat Shorthair R Ear02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Eye
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Whiskers
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm/Cat
+          Shorthair R Forearm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm/Cat
+          Shorthair R Forearm/Cat Shorthair R Hand
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02/Cat Shorthair Tail03
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02/Cat Shorthair Tail03/Cat Shorthair Tail04
+        weight: 1
+      - path: Cat Shorthair Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 07a81bebff3b7e944a04ece39bee2873, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat Shorthair Run Turn Left
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 117
+      lastFrame: 133
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat Shorthair
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf/Cat Shorthair L Foot
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf/Cat Shorthair L Foot/Cat Shorthair L Toe0
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf/Cat Shorthair R Foot
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf/Cat Shorthair R Foot/Cat Shorthair R Toe0
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Bell
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm/Cat
+          Shorthair L Forearm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm/Cat
+          Shorthair L Forearm/Cat Shorthair L Hand
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          Jaw
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Ear
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Ear/Cat Shorthair L Ear02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Eye
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Whiskers
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Ear
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Ear/Cat Shorthair R Ear02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Eye
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Whiskers
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm/Cat
+          Shorthair R Forearm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm/Cat
+          Shorthair R Forearm/Cat Shorthair R Hand
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02/Cat Shorthair Tail03
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02/Cat Shorthair Tail03/Cat Shorthair Tail04
+        weight: 1
+      - path: Cat Shorthair Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 07a81bebff3b7e944a04ece39bee2873, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat Shorthair Walk Backwards
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 138
+      lastFrame: 158
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat Shorthair
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf/Cat Shorthair L Foot
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf/Cat Shorthair L Foot/Cat Shorthair L Toe0
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf/Cat Shorthair R Foot
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf/Cat Shorthair R Foot/Cat Shorthair R Toe0
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Bell
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm/Cat
+          Shorthair L Forearm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm/Cat
+          Shorthair L Forearm/Cat Shorthair L Hand
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          Jaw
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Ear
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Ear/Cat Shorthair L Ear02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Eye
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Whiskers
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Ear
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Ear/Cat Shorthair R Ear02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Eye
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Whiskers
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm/Cat
+          Shorthair R Forearm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm/Cat
+          Shorthair R Forearm/Cat Shorthair R Hand
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02/Cat Shorthair Tail03
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02/Cat Shorthair Tail03/Cat Shorthair Tail04
+        weight: 1
+      - path: Cat Shorthair Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 07a81bebff3b7e944a04ece39bee2873, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat Shorthair Turn Right
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 163
+      lastFrame: 193
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat Shorthair
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf/Cat Shorthair L Foot
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf/Cat Shorthair L Foot/Cat Shorthair L Toe0
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf/Cat Shorthair R Foot
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf/Cat Shorthair R Foot/Cat Shorthair R Toe0
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Bell
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm/Cat
+          Shorthair L Forearm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm/Cat
+          Shorthair L Forearm/Cat Shorthair L Hand
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          Jaw
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Ear
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Ear/Cat Shorthair L Ear02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Eye
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Whiskers
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Ear
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Ear/Cat Shorthair R Ear02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Eye
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Whiskers
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm/Cat
+          Shorthair R Forearm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm/Cat
+          Shorthair R Forearm/Cat Shorthair R Hand
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02/Cat Shorthair Tail03
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02/Cat Shorthair Tail03/Cat Shorthair Tail04
+        weight: 1
+      - path: Cat Shorthair Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 07a81bebff3b7e944a04ece39bee2873, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat Shorthair Turn Left
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 198
+      lastFrame: 228
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat Shorthair
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf/Cat Shorthair L Foot
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+          L Calf/Cat Shorthair L Foot/Cat Shorthair L Toe0
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf/Cat Shorthair R Foot
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+          R Calf/Cat Shorthair R Foot/Cat Shorthair R Toe0
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Bell
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm/Cat
+          Shorthair L Forearm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm/Cat
+          Shorthair L Forearm/Cat Shorthair L Hand
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          Jaw
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Ear
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Ear/Cat Shorthair L Ear02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Eye
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          L Whiskers
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Ear
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Ear/Cat Shorthair R Ear02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Eye
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+          R Whiskers
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm/Cat
+          Shorthair R Forearm
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+          Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm/Cat
+          Shorthair R Forearm/Cat Shorthair R Hand
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02/Cat Shorthair Tail03
+        weight: 1
+      - path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair
+          Tail02/Cat Shorthair Tail03/Cat Shorthair Tail04
+        weight: 1
+      - path: Cat Shorthair Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 07a81bebff3b7e944a04ece39bee2873, type: 2}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Cat Shorthair Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Shorthair L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Shorthair R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Shorthair L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Shorthair R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Shorthair L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Shorthair R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Shorthair Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Shorthair Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Shorthair Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Shorthair Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Shorthair L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Shorthair R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Shorthair L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Shorthair R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Shorthair L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Shorthair R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Shorthair L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Shorthair R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Shorthair Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Cat Shorthair(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.000000487774, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cat Shorthair
+      parentName: Cat Shorthair(Clone)
+      position: {x: -0.000000001246448, y: 0.31302747, z: -0.11503966}
+      rotation: {x: -0.50000036, y: 0.49999964, z: 0.49999964, w: 0.50000036}
+      scale: {x: 2.54, y: 2.54, z: 2.54}
+    - name: Cat Shorthair Pelvis
+      parentName: Cat Shorthair
+      position: {x: -0.0452912, y: -0.00000002060584, z: 0}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Cat Shorthair L Thigh
+      parentName: Cat Shorthair Pelvis
+      position: {x: 0.000000028610229, y: 0.000000028610229, z: 0.017402388}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: Cat Shorthair L Calf
+      parentName: Cat Shorthair L Thigh
+      position: {x: -0.06649707, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 0.9999999}
+    - name: Cat Shorthair L Foot
+      parentName: Cat Shorthair L Calf
+      position: {x: -0.030047867, y: -0.000000009536743, z: -0.0000000023841857}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1, z: 1.0000002}
+    - name: Cat Shorthair L Toe0
+      parentName: Cat Shorthair L Foot
+      position: {x: -0.022529937, y: 0.028995046, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1.0000001}
+    - name: Cat Shorthair R Thigh
+      parentName: Cat Shorthair Pelvis
+      position: {x: -0.000000028610229, y: -0.000000019073486, z: -0.017402392}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+    - name: Cat Shorthair R Calf
+      parentName: Cat Shorthair R Thigh
+      position: {x: -0.06649707, y: -0.0000000047683715, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 1, z: 1.0000002}
+    - name: Cat Shorthair R Foot
+      parentName: Cat Shorthair R Calf
+      position: {x: -0.030047862, y: -0.0000000047683715, z: 0.0000000023841857}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.9999999}
+    - name: Cat Shorthair R Toe0
+      parentName: Cat Shorthair R Foot
+      position: {x: -0.022529934, y: 0.028995046, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000004, y: 0.99999994, z: 1.0000004}
+    - name: Cat Shorthair Spine
+      parentName: Cat Shorthair Pelvis
+      position: {x: -0.00077792164, y: 0.006972971, z: -0.000000018455502}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000002}
+    - name: Cat Shorthair Spine1
+      parentName: Cat Shorthair Spine
+      position: {x: -0.036215354, y: -0.000028839111, z: -7.999915e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: Cat Shorthair Spine2
+      parentName: Cat Shorthair Spine1
+      position: {x: -0.03621521, y: -0.000028829574, z: -7.9944586e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 0.9999999}
+    - name: Cat Shorthair Bell
+      parentName: Cat Shorthair Spine2
+      position: {x: -0.055416774, y: 0.04479787, z: 0.000000087856826}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 0.99999946, z: 0.99999976}
+    - name: Cat Shorthair L Clavicle
+      parentName: Cat Shorthair Spine2
+      position: {x: -0.026280897, y: -0.0035333824, z: 0.0073126988}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1.0000002}
+    - name: Cat Shorthair L UpperArm
+      parentName: Cat Shorthair L Clavicle
+      position: {x: -0.0398258, y: 0.0000000047683715, z: 0.000000009536743}
+      rotation: {x: -0.6609893, y: -9.095604e-10, z: 0.000000059604645, w: 0.7503953}
+      scale: {x: 0.9999999, y: 0.9999997, z: 1.0000004}
+    - name: Cat Shorthair L Forearm
+      parentName: Cat Shorthair L UpperArm
+      position: {x: -0.03746827, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000006, z: 1.0000001}
+    - name: Cat Shorthair L Hand
+      parentName: Cat Shorthair L Forearm
+      position: {x: -0.05244347, y: 0, z: 0.0000000011920929}
+      rotation: {x: 0.20340928, y: 0.00000005439951, z: 0.000000046010925, w: -0.9790938}
+      scale: {x: 0.99999946, y: 0.9999999, z: 0.9999995}
+    - name: Cat Shorthair Neck
+      parentName: Cat Shorthair Spine2
+      position: {x: -0.036190663, y: -0.000040073395, z: -1.1112206e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Cat Shorthair Head
+      parentName: Cat Shorthair Neck
+      position: {x: -0.059098348, y: 0.0000000047683715, z: 3.6379787e-14}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: Cat Shorthair Jaw
+      parentName: Cat Shorthair Head
+      position: {x: -0.0060540386, y: 0.034605425, z: 0.000000052029534}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999996, y: 0.9999998, z: 0.9999998}
+    - name: Cat Shorthair L Ear
+      parentName: Cat Shorthair Head
+      position: {x: -0.033417206, y: 0.0074629686, z: 0.029637687}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000004}
+    - name: Cat Shorthair L Ear02
+      parentName: Cat Shorthair L Ear
+      position: {x: -0.026780508, y: -0.000021324156, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 1.0000005}
+    - name: Cat Shorthair L Eye
+      parentName: Cat Shorthair Head
+      position: {x: -0.010759983, y: 0.044029806, z: 0.021151423}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000004}
+    - name: Cat Shorthair L Whiskers
+      parentName: Cat Shorthair Head
+      position: {x: 0.012808112, y: 0.06979441, z: 0.023790812}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: Cat Shorthair R Ear
+      parentName: Cat Shorthair Head
+      position: {x: -0.033417206, y: 0.0074631213, z: -0.029637653}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1, z: 0.99999994}
+    - name: Cat Shorthair R Ear02
+      parentName: Cat Shorthair R Ear
+      position: {x: -0.02678052, y: -0.000021328926, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 1.0000002}
+    - name: Cat Shorthair R Eye
+      parentName: Cat Shorthair Head
+      position: {x: -0.010759983, y: 0.04402992, z: -0.02115118}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999997, z: 0.9999999}
+    - name: Cat Shorthair R Whiskers
+      parentName: Cat Shorthair Head
+      position: {x: 0.012808112, y: 0.069794536, z: -0.02379043}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 1, z: 0.9999997}
+    - name: Cat Shorthair R Clavicle
+      parentName: Cat Shorthair Spine2
+      position: {x: -0.026280897, y: -0.0035333443, z: -0.0073127192}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1.0000002}
+    - name: Cat Shorthair R UpperArm
+      parentName: Cat Shorthair R Clavicle
+      position: {x: -0.039825812, y: 0, z: -0.000000009536743}
+      rotation: {x: 0.58233625, y: -0.000000055257043, z: -0.000000059604638, w: 0.812948}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1}
+    - name: Cat Shorthair R Forearm
+      parentName: Cat Shorthair R UpperArm
+      position: {x: -0.03746827, y: 0.0000000047683715, z: -0.0000000011920929}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 0.9999998, z: 0.9999999}
+    - name: Cat Shorthair R Hand
+      parentName: Cat Shorthair R Forearm
+      position: {x: -0.052443463, y: -0.0000000047683715, z: 0}
+      rotation: {x: 0.264048, y: -0.000000064359305, z: -0.000000047766648, w: 0.96450955}
+      scale: {x: 0.9999996, y: 0.9999994, z: 0.9999998}
+    - name: Cat Shorthair Tail
+      parentName: Cat Shorthair Pelvis
+      position: {x: -0.009881639, y: -0.023933472, z: 0.000000080751484}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1}
+    - name: Cat Shorthair Tail02
+      parentName: Cat Shorthair Tail
+      position: {x: -0.03861368, y: -0.000030746458, z: -8.527422e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1}
+    - name: Cat Shorthair Tail03
+      parentName: Cat Shorthair Tail02
+      position: {x: -0.03861367, y: -0.000030746458, z: -8.527422e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1}
+    - name: Cat Shorthair Tail04
+      parentName: Cat Shorthair Tail03
+      position: {x: -0.0386137, y: -0.000030746458, z: -8.527422e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: Cat Shorthair Mesh
+      parentName: Cat Shorthair(Clone)
+      position: {x: -0, y: -0.0005582024, z: 0.003206006}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 2.54, y: 2.54, z: 2.54}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: f23b01073a997fe449d59112703079d5, type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

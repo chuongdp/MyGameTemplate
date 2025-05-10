@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <androidPackages>
+        <androidPackage spec="com.applovin.mediation:maio-adapter:2.0.4.0">
+            <repositories>
+                <repository>https://imobile-maio.github.io/maven</repository>
+            </repositories>
+        </androidPackage>
+    </androidPackages>
+    <iosPods>
+        <iosPod name="AppLovinMediationMaioAdapter" version="2.1.6.0"/>
+    </iosPods>
+</dependencies>

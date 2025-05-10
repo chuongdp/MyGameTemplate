@@ -1,0 +1,17 @@
+{
+    "name": "Exoa.TutorialEngine",
+    "rootNamespace": "",
+    "references": [
+        "MalbersAnimations",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

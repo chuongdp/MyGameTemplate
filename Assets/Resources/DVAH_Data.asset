@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 652ebd02c42042642a6a9d053c147468, type: 3}
+  m_Name: DVAH_Data
+  m_EditorClassIdentifier: 
+  NativeTrickRate: 0
+  LinkGoogleSheet: 
+  NameGoogleSheet: 
+  AppFlyer_DevKey: 
+  Facebook_AppID: 
+  Facebook_ClientToken: 
+  ad_impression_key: ad_impression
+  IsMediationDebugger: 1
+  MEDIATION_NETWORK: 1
+  AmazonAppID: 
+  AmazonBannerID: 
+  AmazonInterID: 
+  AmazonRewarID: 
+  AmazonMrecId: 
+  AppLovin_SDK_Key: sdKdF4f4EDX3gDNhzOUhyJJb5ITQnA8hbqpGLC6P-70pG-kW7OuJyLP8BFqS1bC41L2hc1Dibn168yhzNbTD6T
+  IS_App_Key: 
+  Pangle_App_ID: 
+  Google_Android_AppID: ca-app-pub-3940256099942544~3347511713
+  Google_IOS_AppID: ca-app-pub-3940256099942544~3347511713
+  adUnits:
+    m_keys: 0000000001000000020000000300000004000000050000000600000007000000
+    m_values:
+    - AdUnitDatas:
+      - network: 1
+        UnitId: 89aade6815351c7c
+        Prefab: {fileID: 0}
+        Size: {x: 0, y: 0}
+        Position: {x: 0, y: 0}
+      - network: 2
+        UnitId: ca-app-pub-9561563625318152/8897076143
+        Prefab: {fileID: 0}
+        Size: {x: 0, y: 0}
+        Position: {x: 0, y: 0}
+    - AdUnitDatas:
+      - network: 1
+        UnitId: d67fd414b94929f8
+        Prefab: {fileID: 0}
+        Size: {x: 0, y: 0}
+        Position: {x: 0, y: 0}
+    - AdUnitDatas:
+      - network: 1
+        UnitId: dbd2c4ece1f52653
+        Prefab: {fileID: 0}
+        Size: {x: 0, y: 0}
+        Position: {x: 0, y: 0}
+    - AdUnitDatas:
+      - network: 1
+        UnitId: e2d5d99a6565f5b4
+        Prefab: {fileID: 0}
+        Size: {x: 0, y: 0}
+        Position: {x: 0, y: 0}
+    - AdUnitDatas: []
+    - AdUnitDatas:
+      - network: 1
+        UnitId: d0cdd1f5da40f44e
+        Prefab: {fileID: 0}
+        Size: {x: 0, y: 0}
+        Position: {x: 20, y: 50}
+    - AdUnitDatas: []
+    - AdUnitDatas: []
+  BannerPosition: 2
+  MrecsPosition: -1
+  CollapsePosition: 3
+  BannerDefaultShow: 0
+  MrecsDefaultShow: 0
+  IsAdptiveBanner: 0
+  FirebaseRemoteDatas:
+    m_keys:
+    - AUDIO_ADS_ON_OFF
+    - AUDIO_ADS_TIME
+    - TIME_DELAY_SHOW_AUDIO_ADS
+    - aoa_capping_time
+    - aoa_first_session_show
+    - aoa_is_active
+    - aoa_pos_app_back
+    - aoa_pos_app_open
+    - can_show_inter_second
+    - can_show_mrec_native
+    - check_internet_is_active
+    - granny_max_chase_time
+    - granny_time_back_home
+    - ha_capping_time_popup_trailer_show
+    - iap_on_off
+    - inter_ad_capping_time
+    - inter_capping_time
+    - inter_capping_time_d0
+    - inter_first_time_delay
+    - inter_is_active
+    - inter_level_delay
+    - inter_pos_chapter_back
+    - inter_pos_chest
+    - inter_pos_croco_quit
+    - inter_pos_ha_game_over
+    - inter_pos_ha_night_over
+    - inter_pos_ha_pause_close
+    - inter_pos_ha_warning
+    - inter_pos_level_up
+    - inter_pos_pause_close
+    - inter_pos_play_game
+    - inter_pos_setting_close
+    - inter_pos_shop_close
+    - inter_pos_sidequest
+    - inter_pos_special_offer
+    - level_show_rate
+    - mrec_capping_time
+    - mrec_onoff_ui_claimitem
+    - mrec_onoff_ui_pause
+    - mrec_onoff_ui_rateus
+    - mrec_onoff_ui_selectchapter
+    - mrec_onoff_ui_settings
+    - special_offer_capping_time
+    - special_offer_first_show
+    - special_offer_session_limit
+    - still_show_gadme_when_noads
+    - thief_special_offer_cappingtime
+    - time_night
+    m_values:
+    - true
+    - 150
+    - 120
+    - 2
+    - 0
+    - true
+    - true
+    - true
+    - false
+    - true
+    - true
+    - 10
+    - 80
+    - 360
+    - false
+    - 45
+    - 45
+    - 60
+    - 120
+    - true
+    - 0
+    - false
+    - true
+    - false
+    - true
+    - true
+    - true
+    - true
+    - true
+    - false
+    - true
+    - false
+    - false
+    - true
+    - true
+    - 5
+    - 1
+    - false
+    - false
+    - false
+    - false
+    - false
+    - 45
+    - 3
+    - 0
+    - true
+    - 60
+    - 180
+  NO_ADS: 1
+  NoReward: 0
+  Report: 

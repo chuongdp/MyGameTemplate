@@ -1,0 +1,81 @@
+#====Adjust====
+-keep public class com.adjust.sdk.** { *; }
+-keep class com.adjust.sdk.DeviceInfo**
+-keepclassmembers class com.adjust.sdk.DeviceInfo** {*;}
+-keep class com.google.android.gms.common.ConnectionResult {
+    int SUCCESS;
+}
+-keep class com.google.android.gms.ads.identifier.AdvertisingIdClient {
+    com.google.android.gms.ads.identifier.AdvertisingIdClient$Info getAdvertisingIdInfo(android.content.Context);
+}
+-keep class com.google.android.gms.ads.identifier.AdvertisingIdClient$Info {
+    java.lang.String getId();
+    boolean isLimitAdTrackingEnabled();
+}
+-keep class dalvik.system.VMRuntime {
+    java.lang.String getRuntime();
+}
+-keep class android.os.Build {
+    java.lang.String[] SUPPORTED_ABIS;
+    java.lang.String CPU_ABI;
+}
+-keep class android.content.res.Configuration {
+    android.os.LocaleList getLocales();
+    java.util.Locale locale;
+}
+-keep class android.os.LocaleList {
+    java.util.Locale get(int);
+}
+-keep public class com.android.installreferrer.** { *; }
+
+#====Notification====
+-keep class com.unity.** { *;}
+-keep class com.unity.androidnotifications.** { *;}
+-keepclassmembers class com.unity.androidnotifications.** { *;}
+-keepnames class com.unity.androidnotifications.** { *;}
+-keepclassmembernames class com.unity.androidnotifications.** { *;}
+
+#====IronSource====
+-keepclassmembers class * implements android.os.Parcelable {
+    public static final android.os.Parcelable$Creator *;
+}
+#noinspection ShrinkerUnresolvedReference
+#unity
+-keep class com.ironsource.unity.androidbridge.** { *;}
+-keep class com.google.android.gms.ads.** {public *;}
+-keep class com.google.android.gms.appset.** { *; }
+-keep class com.google.android.gms.tasks.** { *; }
+#adapters
+-keep class com.ironsource.adapters.** { *; }
+#sdk
+-dontwarn com.ironsource.**
+-dontwarn com.ironsource.adapters.**
+-keepclassmembers class com.ironsource.** { public *; }
+-keep public class com.ironsource.**
+-keep class com.ironsource.adapters.** { *;
+}
+#omid
+-dontwarn com.iab.omid.**
+-keep class com.iab.omid.** {*;}
+#javascript
+-keepattributes JavascriptInterface
+-keepclassmembers class * { @android.webkit.JavascriptInterface <methods>; }
+#google in app review
+-keep class com.google.android.play.core.** { *; }
+-keep class com.google.android.gms.play-** { *; }
+
+#====Appsflyer====
+-keep class com.appsflyer.** { *; }
+-keep class kotlin.jvm.internal.Intrinsics{ *; }
+-keep class kotlin.collections.**{ *; }
+
+#====UMP====
+-keep class com.google.android.ump.**{ *;}
+-keep class com.google.unity.ump.**{ *;}
+
+#====Plugins====
+-keepattributes Signature
+-keep class net.pubnative.** { *; }
+-keep class com.iab.omid.library.pubnativenet.** { *; }
+-keep class com.bytebrew.** {*; }
+-keep class com.google.unity.ads.**{ *; }

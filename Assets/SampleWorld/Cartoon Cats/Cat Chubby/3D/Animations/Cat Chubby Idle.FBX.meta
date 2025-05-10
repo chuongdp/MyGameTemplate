@@ -1,0 +1,1171 @@
+fileFormatVersion: 2
+guid: e8f21e2d0be31944ebdcb871a3d4c3f6
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Cat Chubby Idle
+  - first:
+      74: -186392666760821061
+    second: Cat Chubby Idle Focused
+  - first:
+      74: 2758005414043280673
+    second: Cat Chubby Idle Sit
+  - first:
+      74: -5562089958063126080
+    second: Cat Chubby Idle Lay Down
+  - first:
+      74: 9121148139224768360
+    second: Cat Chubby Idle Sleep
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.05
+    animationPositionError: 0.05
+    animationScaleError: 0.05
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Cat Chubby Idle
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat Chubby
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby L Thigh
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby L Thigh/Cat Chubby L Calf
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby L Thigh/Cat Chubby L Calf/Cat
+          Chubby L Foot
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby L Thigh/Cat Chubby L Calf/Cat
+          Chubby L Foot/Cat Chubby L Toe0
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby R Thigh
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby R Thigh/Cat Chubby R Calf
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby R Thigh/Cat Chubby R Calf/Cat
+          Chubby R Foot
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby R Thigh/Cat Chubby R Calf/Cat
+          Chubby R Foot/Cat Chubby R Toe0
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby L Clavicle
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby L Clavicle/Cat Chubby L UpperArm
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby L Clavicle/Cat Chubby L UpperArm/Cat Chubby L
+          Forearm
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby L Clavicle/Cat Chubby L UpperArm/Cat Chubby L
+          Forearm/Cat Chubby L Hand
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby Jaw
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby L Ear
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby L Ear/Cat Chubby
+          L Ear02
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby L Eye
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby L Whiskers
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby R Ear
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby R Ear/Cat Chubby
+          R Ear02
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby R Eye
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby R Whiskers
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby R Clavicle
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby R Clavicle/Cat Chubby R UpperArm
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby R Clavicle/Cat Chubby R UpperArm/Cat Chubby R
+          Forearm
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby R Clavicle/Cat Chubby R UpperArm/Cat Chubby R
+          Forearm/Cat Chubby R Hand
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Tag
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Tail
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Tail/Cat Chubby Tail02
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Tail/Cat Chubby Tail02/Cat
+          Chubby Tail03
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Tail/Cat Chubby Tail02/Cat
+          Chubby Tail03/Cat Chubby Tail04
+        weight: 1
+      - path: Cat Chubby Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: b5af0acca0fec0c418d32ab6cafe6928, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat Chubby Idle Focused
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 145
+      lastFrame: 265
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat Chubby
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby L Thigh
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby L Thigh/Cat Chubby L Calf
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby L Thigh/Cat Chubby L Calf/Cat
+          Chubby L Foot
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby L Thigh/Cat Chubby L Calf/Cat
+          Chubby L Foot/Cat Chubby L Toe0
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby R Thigh
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby R Thigh/Cat Chubby R Calf
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby R Thigh/Cat Chubby R Calf/Cat
+          Chubby R Foot
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby R Thigh/Cat Chubby R Calf/Cat
+          Chubby R Foot/Cat Chubby R Toe0
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby L Clavicle
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby L Clavicle/Cat Chubby L UpperArm
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby L Clavicle/Cat Chubby L UpperArm/Cat Chubby L
+          Forearm
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby L Clavicle/Cat Chubby L UpperArm/Cat Chubby L
+          Forearm/Cat Chubby L Hand
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby Jaw
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby L Ear
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby L Ear/Cat Chubby
+          L Ear02
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby L Eye
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby L Whiskers
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby R Ear
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby R Ear/Cat Chubby
+          R Ear02
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby R Eye
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby R Whiskers
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby R Clavicle
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby R Clavicle/Cat Chubby R UpperArm
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby R Clavicle/Cat Chubby R UpperArm/Cat Chubby R
+          Forearm
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby R Clavicle/Cat Chubby R UpperArm/Cat Chubby R
+          Forearm/Cat Chubby R Hand
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Tag
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Tail
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Tail/Cat Chubby Tail02
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Tail/Cat Chubby Tail02/Cat
+          Chubby Tail03
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Tail/Cat Chubby Tail02/Cat
+          Chubby Tail03/Cat Chubby Tail04
+        weight: 1
+      - path: Cat Chubby Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: b5af0acca0fec0c418d32ab6cafe6928, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat Chubby Idle Sit
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 270
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat Chubby
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby L Thigh
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby L Thigh/Cat Chubby L Calf
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby L Thigh/Cat Chubby L Calf/Cat
+          Chubby L Foot
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby L Thigh/Cat Chubby L Calf/Cat
+          Chubby L Foot/Cat Chubby L Toe0
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby R Thigh
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby R Thigh/Cat Chubby R Calf
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby R Thigh/Cat Chubby R Calf/Cat
+          Chubby R Foot
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby R Thigh/Cat Chubby R Calf/Cat
+          Chubby R Foot/Cat Chubby R Toe0
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby L Clavicle
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby L Clavicle/Cat Chubby L UpperArm
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby L Clavicle/Cat Chubby L UpperArm/Cat Chubby L
+          Forearm
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby L Clavicle/Cat Chubby L UpperArm/Cat Chubby L
+          Forearm/Cat Chubby L Hand
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby Jaw
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby L Ear
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby L Ear/Cat Chubby
+          L Ear02
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby L Eye
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby L Whiskers
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby R Ear
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby R Ear/Cat Chubby
+          R Ear02
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby R Eye
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby R Whiskers
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby R Clavicle
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby R Clavicle/Cat Chubby R UpperArm
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby R Clavicle/Cat Chubby R UpperArm/Cat Chubby R
+          Forearm
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby R Clavicle/Cat Chubby R UpperArm/Cat Chubby R
+          Forearm/Cat Chubby R Hand
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Tag
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Tail
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Tail/Cat Chubby Tail02
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Tail/Cat Chubby Tail02/Cat
+          Chubby Tail03
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Tail/Cat Chubby Tail02/Cat
+          Chubby Tail03/Cat Chubby Tail04
+        weight: 1
+      - path: Cat Chubby Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: b5af0acca0fec0c418d32ab6cafe6928, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat Chubby Idle Lay Down
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 405
+      lastFrame: 535
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat Chubby
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby L Thigh
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby L Thigh/Cat Chubby L Calf
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby L Thigh/Cat Chubby L Calf/Cat
+          Chubby L Foot
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby L Thigh/Cat Chubby L Calf/Cat
+          Chubby L Foot/Cat Chubby L Toe0
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby R Thigh
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby R Thigh/Cat Chubby R Calf
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby R Thigh/Cat Chubby R Calf/Cat
+          Chubby R Foot
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby R Thigh/Cat Chubby R Calf/Cat
+          Chubby R Foot/Cat Chubby R Toe0
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby L Clavicle
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby L Clavicle/Cat Chubby L UpperArm
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby L Clavicle/Cat Chubby L UpperArm/Cat Chubby L
+          Forearm
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby L Clavicle/Cat Chubby L UpperArm/Cat Chubby L
+          Forearm/Cat Chubby L Hand
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby Jaw
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby L Ear
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby L Ear/Cat Chubby
+          L Ear02
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby L Eye
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby L Whiskers
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby R Ear
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby R Ear/Cat Chubby
+          R Ear02
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby R Eye
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby R Whiskers
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby R Clavicle
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby R Clavicle/Cat Chubby R UpperArm
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby R Clavicle/Cat Chubby R UpperArm/Cat Chubby R
+          Forearm
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby R Clavicle/Cat Chubby R UpperArm/Cat Chubby R
+          Forearm/Cat Chubby R Hand
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Tag
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Tail
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Tail/Cat Chubby Tail02
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Tail/Cat Chubby Tail02/Cat
+          Chubby Tail03
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Tail/Cat Chubby Tail02/Cat
+          Chubby Tail03/Cat Chubby Tail04
+        weight: 1
+      - path: Cat Chubby Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: b5af0acca0fec0c418d32ab6cafe6928, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat Chubby Idle Sleep
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 540
+      lastFrame: 660
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat Chubby
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby L Thigh
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby L Thigh/Cat Chubby L Calf
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby L Thigh/Cat Chubby L Calf/Cat
+          Chubby L Foot
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby L Thigh/Cat Chubby L Calf/Cat
+          Chubby L Foot/Cat Chubby L Toe0
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby R Thigh
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby R Thigh/Cat Chubby R Calf
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby R Thigh/Cat Chubby R Calf/Cat
+          Chubby R Foot
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby R Thigh/Cat Chubby R Calf/Cat
+          Chubby R Foot/Cat Chubby R Toe0
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby L Clavicle
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby L Clavicle/Cat Chubby L UpperArm
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby L Clavicle/Cat Chubby L UpperArm/Cat Chubby L
+          Forearm
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby L Clavicle/Cat Chubby L UpperArm/Cat Chubby L
+          Forearm/Cat Chubby L Hand
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby Jaw
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby L Ear
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby L Ear/Cat Chubby
+          L Ear02
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby L Eye
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby L Whiskers
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby R Ear
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby R Ear/Cat Chubby
+          R Ear02
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby R Eye
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Neck/Cat Chubby Head/Cat Chubby R Whiskers
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby R Clavicle
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby R Clavicle/Cat Chubby R UpperArm
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby R Clavicle/Cat Chubby R UpperArm/Cat Chubby R
+          Forearm
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby R Clavicle/Cat Chubby R UpperArm/Cat Chubby R
+          Forearm/Cat Chubby R Hand
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Spine/Cat Chubby Spine1/Cat
+          Chubby Spine2/Cat Chubby Tag
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Tail
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Tail/Cat Chubby Tail02
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Tail/Cat Chubby Tail02/Cat
+          Chubby Tail03
+        weight: 1
+      - path: Cat Chubby/Cat Chubby Pelvis/Cat Chubby Tail/Cat Chubby Tail02/Cat
+          Chubby Tail03/Cat Chubby Tail04
+        weight: 1
+      - path: Cat Chubby Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: b5af0acca0fec0c418d32ab6cafe6928, type: 2}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Cat Chubby Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Chubby L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Chubby R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Chubby L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Chubby R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Chubby L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Chubby R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Chubby Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Chubby Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Chubby Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Chubby Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Chubby L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Chubby R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Chubby L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Chubby R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Chubby L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Chubby R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Chubby L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Chubby R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cat Chubby Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Cat Chubby(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.00000048901956, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cat Chubby
+      parentName: Cat Chubby(Clone)
+      position: {x: -0.000000005386903, y: 0.30336174, z: -0.12323797}
+      rotation: {x: -0.50000036, y: 0.49999964, z: 0.49999964, w: 0.50000036}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Cat Chubby Pelvis
+      parentName: Cat Chubby
+      position: {x: -0.123237975, y: -0.00000005576178, z: 0}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cat Chubby L Thigh
+      parentName: Cat Chubby Pelvis
+      position: {x: 0.0000001335144, y: 0.00000014305114, z: 0.09791127}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.99999976}
+    - name: Cat Chubby L Calf
+      parentName: Cat Chubby L Thigh
+      position: {x: -0.14625579, y: 0.0000000047683715, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Cat Chubby L Foot
+      parentName: Cat Chubby L Calf
+      position: {x: -0.10268086, y: -0.000000019073486, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Cat Chubby L Toe0
+      parentName: Cat Chubby L Foot
+      position: {x: -0.04883825, y: 0.062774755, z: 0.008021154}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000001}
+    - name: Cat Chubby R Thigh
+      parentName: Cat Chubby Pelvis
+      position: {x: -0.0000001335144, y: -0.00000012397766, z: -0.09791125}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 0.9999997, y: 0.9999998, z: 0.99999976}
+    - name: Cat Chubby R Calf
+      parentName: Cat Chubby R Thigh
+      position: {x: -0.14625578, y: -0.0000000047683715, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: Cat Chubby R Foot
+      parentName: Cat Chubby R Calf
+      position: {x: -0.102680854, y: -0.000000019073486, z: -0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: Cat Chubby R Toe0
+      parentName: Cat Chubby R Foot
+      position: {x: -0.04883828, y: 0.06277474, z: -0.008021173}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000005}
+    - name: Cat Chubby Spine
+      parentName: Cat Chubby Pelvis
+      position: {x: -0.021883696, y: 0.030301724, z: -0.000000054542106}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.9999999}
+    - name: Cat Chubby Spine1
+      parentName: Cat Chubby Spine
+      position: {x: -0.11371968, y: -0.000090522764, z: -2.5102054e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: Cat Chubby Spine2
+      parentName: Cat Chubby Spine1
+      position: {x: -0.113702275, y: -0.000093879695, z: -2.6040653e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: Cat Chubby L Clavicle
+      parentName: Cat Chubby Spine2
+      position: {x: -0.052371178, y: -0.0069553563, z: 0.024295857}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: Cat Chubby L UpperArm
+      parentName: Cat Chubby L Clavicle
+      position: {x: -0.11044984, y: 0.000000019073486, z: 0.000000019073486}
+      rotation: {x: -0.5099086, y: -0.000000067118144, z: 0.000000059604638, w: 0.86022854}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000006}
+    - name: Cat Chubby L Forearm
+      parentName: Cat Chubby L UpperArm
+      position: {x: -0.1393467, y: 0.000000019073486, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: Cat Chubby L Hand
+      parentName: Cat Chubby L Forearm
+      position: {x: -0.12528619, y: -0.000000019073486, z: 0.0000000047683715}
+      rotation: {x: 0.29700604, y: 0.000000026248337, z: 0.000000023903485, w: -0.9548756}
+      scale: {x: 1, y: 1.0000001, z: 0.9999997}
+    - name: Cat Chubby Neck
+      parentName: Cat Chubby Spine2
+      position: {x: -0.12028682, y: -0.000048007965, z: -1.3322278e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000001}
+    - name: Cat Chubby Head
+      parentName: Cat Chubby Neck
+      position: {x: -0.07551296, y: 0, z: -7.2759575e-14}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 0.99999964, z: 0.9999998}
+    - name: Cat Chubby Jaw
+      parentName: Cat Chubby Head
+      position: {x: -0.025347022, y: 0.063518085, z: 0.000000086446235}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999999}
+    - name: Cat Chubby L Ear
+      parentName: Cat Chubby Head
+      position: {x: -0.11107818, y: -0.018955383, z: 0.11132085}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Cat Chubby L Ear02
+      parentName: Cat Chubby L Ear
+      position: {x: -0.075923115, y: -0.0000604248, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.99999976}
+    - name: Cat Chubby L Eye
+      parentName: Cat Chubby Head
+      position: {x: -0.048916128, y: 0.096715525, z: 0.0633673}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 0.9999997, z: 0.99999964}
+    - name: Cat Chubby L Whiskers
+      parentName: Cat Chubby Head
+      position: {x: 0.009225922, y: 0.15992185, z: 0.08082272}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: Cat Chubby R Ear
+      parentName: Cat Chubby Head
+      position: {x: -0.11107818, y: -0.018954791, z: -0.11132097}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999976, z: 0.99999994}
+    - name: Cat Chubby R Ear02
+      parentName: Cat Chubby R Ear
+      position: {x: -0.07592315, y: -0.000060443876, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 1, z: 1}
+    - name: Cat Chubby R Eye
+      parentName: Cat Chubby Head
+      position: {x: -0.048916128, y: 0.09671587, z: -0.06336677}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.9999997}
+    - name: Cat Chubby R Whiskers
+      parentName: Cat Chubby Head
+      position: {x: 0.009225922, y: 0.15992232, z: -0.08082183}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 0.9999998, z: 0.99999994}
+    - name: Cat Chubby R Clavicle
+      parentName: Cat Chubby Spine2
+      position: {x: -0.05237116, y: -0.006955223, z: -0.024295894}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000006}
+    - name: Cat Chubby R UpperArm
+      parentName: Cat Chubby R Clavicle
+      position: {x: -0.110449836, y: 0, z: 0}
+      rotation: {x: 0.5516347, y: -0.000000113519654, z: -0, w: 0.83408576}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000008}
+    - name: Cat Chubby R Forearm
+      parentName: Cat Chubby R UpperArm
+      position: {x: -0.1393467, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 0.9999998}
+    - name: Cat Chubby R Hand
+      parentName: Cat Chubby R Forearm
+      position: {x: -0.12528619, y: 0, z: 0}
+      rotation: {x: 0.21094017, y: 0.000000003160259, z: 0.000000076392354, w: 0.97749895}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000004}
+    - name: Cat Chubby Tag
+      parentName: Cat Chubby Spine2
+      position: {x: -0.14295681, y: 0.17151597, z: 0.00000046036953}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: Cat Chubby Tail
+      parentName: Cat Chubby Pelvis
+      position: {x: -0.019521942, y: -0.09884876, z: 0.0000003039897}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 0.9999999, z: 0.99999994}
+    - name: Cat Chubby Tail02
+      parentName: Cat Chubby Tail
+      position: {x: -0.10081223, y: -0.00008026123, z: -2.2264429e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Cat Chubby Tail03
+      parentName: Cat Chubby Tail02
+      position: {x: -0.10081218, y: -0.00008026123, z: -2.2271705e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Cat Chubby Tail04
+      parentName: Cat Chubby Tail03
+      position: {x: -0.10081223, y: -0.00008026123, z: -2.2249878e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Cat Chubby Mesh
+      parentName: Cat Chubby(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: e9be92655fedab34caad4145a8eaf9e3, type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

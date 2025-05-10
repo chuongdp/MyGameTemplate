@@ -1,0 +1,20 @@
+{
+  "name": "MiraiSDK.Editor",
+  "rootNamespace": "MiraiSdk.Editor",
+  "references": [
+    "MiraiSdk",
+    "GoogleMobileAds.Editor",
+    "MaxSdk.Scripts.IntegrationManager.Editor"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

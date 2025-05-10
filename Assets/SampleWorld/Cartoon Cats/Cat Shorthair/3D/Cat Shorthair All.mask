@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Cat Shorthair All
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Cat Shorthair
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+      L Calf
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+      L Calf/Cat Shorthair L Foot
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair L Thigh/Cat Shorthair
+      L Calf/Cat Shorthair L Foot/Cat Shorthair L Toe0
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+      R Calf
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+      R Calf/Cat Shorthair R Foot
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair R Thigh/Cat Shorthair
+      R Calf/Cat Shorthair R Foot/Cat Shorthair R Toe0
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+      Spine1
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+      Spine1/Cat Shorthair Spine2
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+      Spine1/Cat Shorthair Spine2/Cat Shorthair Bell
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+      Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+      Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+      Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm/Cat
+      Shorthair L Forearm
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+      Spine1/Cat Shorthair Spine2/Cat Shorthair L Clavicle/Cat Shorthair L UpperArm/Cat
+      Shorthair L Forearm/Cat Shorthair L Hand
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+      Spine1/Cat Shorthair Spine2/Cat Shorthair Neck
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+      Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+      Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+      Jaw
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+      Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+      L Ear
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+      Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+      L Ear/Cat Shorthair L Ear02
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+      Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+      L Eye
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+      Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+      L Whiskers
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+      Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+      R Ear
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+      Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+      R Ear/Cat Shorthair R Ear02
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+      Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+      R Eye
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+      Spine1/Cat Shorthair Spine2/Cat Shorthair Neck/Cat Shorthair Head/Cat Shorthair
+      R Whiskers
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+      Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+      Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+      Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm/Cat
+      Shorthair R Forearm
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Spine/Cat Shorthair
+      Spine1/Cat Shorthair Spine2/Cat Shorthair R Clavicle/Cat Shorthair R UpperArm/Cat
+      Shorthair R Forearm/Cat Shorthair R Hand
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair Tail02
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair Tail02/Cat
+      Shorthair Tail03
+    m_Weight: 1
+  - m_Path: Cat Shorthair/Cat Shorthair Pelvis/Cat Shorthair Tail/Cat Shorthair Tail02/Cat
+      Shorthair Tail03/Cat Shorthair Tail04
+    m_Weight: 1
+  - m_Path: Cat Shorthair Mesh
+    m_Weight: 1

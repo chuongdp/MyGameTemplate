@@ -1,0 +1,13 @@
+﻿using UnityEditor;
+#if UNITY_EDITOR
+namespace Utilities
+{
+    public static class SerializedPropertyExtentions
+    {
+	    public static T GetValue<T>(this UnityEditor.SerializedProperty property)
+        {
+            return ReflectionUtil.GetNestedObject<T>(property.serializedObject.targetObject, property.propertyPath);
+        }
+    }
+}
+#endif
