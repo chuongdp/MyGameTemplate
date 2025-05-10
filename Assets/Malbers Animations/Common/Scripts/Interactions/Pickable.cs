@@ -162,7 +162,7 @@ namespace MalbersAnimations.Controller
             if (RigidBody)
             {
                 RigidBody.useGravity = false;
-                RigidBody.velocity = Vector3.zero;
+                RigidBody.linearVelocity = Vector3.zero;
                 RigidBody.collisionDetectionMode = CollisionDetectionMode.Discrete;
                 RigidBody.isKinematic = true;
             }

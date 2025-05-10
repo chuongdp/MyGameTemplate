@@ -5,286 +5,271 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e905eef-d751-4148-8790-f33eb9848dea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MyGameTemplate/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MyGameTemplate/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MyGameTemplate/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MyGameTemplate/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiNetwork.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudio.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Network.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/ComparisonType.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/ComparisonType.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/DisablingType.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/DisablingType.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/DrawIfAttribute.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/DrawIfAttribute.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/FieldNotFoundException.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/FieldNotFoundException.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/NumericType.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/NumericType.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/NumericTypeExpectedException.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/NumericTypeExpectedException.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/PropertyNotFoundException.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/PropertyNotFoundException.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/PropertyOrFieldNotFoundException.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/PropertyOrFieldNotFoundException.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/ReflectionUtil.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/ReflectionUtil.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/SerializedPropertyExtentions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/SerializedPropertyExtentions.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/TypeUtilities.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/DrawIfAtrribute/TypeUtilities.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/DisableBitcode.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/DisableBitcode.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/DrawIfPropertyDrawer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/DrawIfPropertyDrawer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/MenuEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/MenuEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/MiraiCoroutineEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/MiraiCoroutineEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/MiraiSDK.Editor.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/MiraiSDK.Editor.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/MiraiSDKIntegrationManagerWindow.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/MiraiSDKIntegrationManagerWindow.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/OnPostBuildSetting.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/OnPostBuildSetting.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/PlayGameEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/PlayGameEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/StringConfig.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/StringConfig.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/ToolBarHnn.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Editor/ToolBarHnn.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Images.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Images/ad button.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Images/ad button.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Images/open.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Images/open.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/CONSTANT.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/CONSTANT.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/MemoryChecker.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/MemoryChecker.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/RequestBase.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/RequestBase.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/SerializableDictionary.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/SerializableDictionary.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/SimpleJSON.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/SimpleJSON.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/Singleton.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/Singleton.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/UnityMainThread.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/UnityMainThread.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/UpdateManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Lib/UpdateManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad16x9.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad16x9.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad1x1.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad1x1.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad1x2.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad1x2.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad235x100.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad235x100.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad2x1.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad2x1.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad2x3.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad2x3.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad3x1.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad3x1.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad3x2.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad3x2.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad3x4.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad3x4.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad4x15.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad4x15.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad4x3.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad4x3.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad5x1.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad5x1.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad5x4.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad5x4.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad6x1.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad6x1.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad6x5.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad6x5.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad8x1.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad8x1.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad9x16.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Mesh/fbx/quad9x16.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/AdNative.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/AdNative.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/Aoa.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/Aoa.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/Banner.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/Banner.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/Interstitial.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/Interstitial.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/Mrecs.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/Mrecs.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/NativeDefault.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/NativeDefault.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/NativeInGame.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/NativeInGame.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/NoAd.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/NoAd.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/Rewarded.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/AD/Rewarded.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/FirebasePopUp.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/FirebasePopUp.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/google-services.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Resources/google-services.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/ATT.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/ATT/PostBuildStep.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/ATT/PostBuildStep.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdManagerDemo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdManagerDemo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/AdUnitModule.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/AdUnitModule.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/AoaModule.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/AoaModule/AdUnitModuleAoa_Admob.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/AoaModule/AdUnitModuleAoa_Admob.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/AoaModule/AdUnitModuleAoa_Base.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/AoaModule/AdUnitModuleAoa_Base.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/AoaModule/AdUnitModuleAoa_Max.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/AoaModule/AdUnitModuleAoa_Max.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/AoaModule/AdUnitModuleAoa_Pangle.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/AoaModule/AdUnitModuleAoa_Pangle.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/BannerModule.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/BannerModule/AdUnitModuleBanner_Admob.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/BannerModule/AdUnitModuleBanner_Admob.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/BannerModule/AdUnitModuleBanner_Base.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/BannerModule/AdUnitModuleBanner_Base.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/BannerModule/AdUnitModuleBanner_IronSource.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/BannerModule/AdUnitModuleBanner_IronSource.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/BannerModule/AdUnitModuleBanner_Max.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/BannerModule/AdUnitModuleBanner_Max.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/BannerModule/AdUnitModuleBanner_Yandex.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/BannerModule/AdUnitModuleBanner_Yandex.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/CollapseModule.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/CollapseModule/AdUnitModuleCollapse_Admob.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/CollapseModule/AdUnitModuleCollapse_Admob.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/CollapseModule/AdUnitModuleCollapse_Base.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/CollapseModule/AdUnitModuleCollapse_Base.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/CollapseModule/AdUnitModuleCollapse_IronSource.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/CollapseModule/AdUnitModuleCollapse_IronSource.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/InterModule.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/InterModule/AdUnitModuleInter_Admob.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/InterModule/AdUnitModuleInter_Admob.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/InterModule/AdUnitModuleInter_Base.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/InterModule/AdUnitModuleInter_Base.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/InterModule/AdUnitModuleInter_IronSource.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/InterModule/AdUnitModuleInter_IronSource.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/InterModule/AdUnitModuleInter_Max.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/InterModule/AdUnitModuleInter_Max.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/InterModule/AdUnitModuleInter_Yandex.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/InterModule/AdUnitModuleInter_Yandex.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/MrecsModule.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/MrecsModule/AdUnitModuleMrecs_Admob.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/MrecsModule/AdUnitModuleMrecs_Admob.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/MrecsModule/AdUnitModuleMrecs_Base.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/MrecsModule/AdUnitModuleMrecs_Base.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/MrecsModule/AdUnitModuleMrecs_IronSource.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/MrecsModule/AdUnitModuleMrecs_IronSource.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/MrecsModule/AdUnitModuleMrecs_Max.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/MrecsModule/AdUnitModuleMrecs_Max.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdNativeObject.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdNativeObject.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdNativeObject_GO.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdNativeObject_GO.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdNativeObject_UI.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdNativeObject_UI.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdUnitModuleNative_Admob.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdUnitModuleNative_Admob.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdUnitModuleNative_Base.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdUnitModuleNative_Base.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdUnitModuleNative_Pangle.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/AdUnitModuleNative_Pangle.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/DestroyListener.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeModule/DestroyListener.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeOverlayModule.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeOverlayModule/AdUnitModuleNativeOverlay_Admob.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeOverlayModule/AdUnitModuleNativeOverlay_Admob.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeOverlayModule/AdUnitModuleNativeOverlay_Base.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/NativeOverlayModule/AdUnitModuleNativeOverlay_Base.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/RewardModule.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/RewardModule/AdUnitModuleReward_IronSource.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/RewardModule/AdUnitModuleReward_IronSource.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/RewardModule/AdUnitmoduleReward_Admob.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/RewardModule/AdUnitmoduleReward_Admob.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/RewardModule/AdUnitmoduleReward_Base.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/RewardModule/AdUnitmoduleReward_Base.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/RewardModule/AdUnitmoduleReward_Max.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/RewardModule/AdUnitmoduleReward_Max.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/RewardModule/AdUnitmoduleReward_Yandex.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/AdUnit/RewardModule/AdUnitmoduleReward_Yandex.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/ControlNativeTrick.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/ControlNativeTrick.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/IAppStateChange.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/IAppStateChange.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/AdBridge.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/AdBridge.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_Admob.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_Admob.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_Applovin.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_Applovin.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_Base.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_Base.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_IronSource.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_IronSource.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_Pangle.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_Pangle.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_Yandex.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/InitModule/Init_Yandex.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/NoAdPopUp.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Ad/NoAdPopUp.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/AppFlyer.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/AppFlyer/AppFlyerBridge.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/AppFlyer/AppFlyerBridge.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/DVAH_Data.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/DVAH_Data.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Firebase.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Firebase/FireBaseBridge.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Firebase/FireBaseBridge.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Firebase/FireBaseManagerDemo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/Firebase/FireBaseManagerDemo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/GDPRScript.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/GDPRScript.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/IAP.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/IAP/IAPManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/IAP/IAPManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/TrackingDefault.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiraiStudioSDK/MiraiSdk/Scripts/TrackingDefault.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Installer/GameServicesVContainer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Installer/GameServicesVContainer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scenes/Splash/SplashManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scenes/Splash/SplashManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Services/AdServices.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Services/AdServices.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Services/AnalyticsServices.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Services/AnalyticsServices.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Services/Interface.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Services/Interface/IAdServices.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Services/Interface/IAdServices.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Services/Interface/IAnalyticsServices.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Services/Interface/IAnalyticsServices.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UIs/Popups/UIPopupRateUs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UIs/Popups/UIPopupRateUs.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UIs/Screen/LoadingScreen/LoadingScreenView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UIs/Screen/LoadingScreen/LoadingScreenView.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UIs/Screen/MainScreen/MainScreenView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UIs/Screen/MainScreen/MainScreenView.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyGameTemplate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyGameTemplate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AddressableAssetSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AddressableAssetSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Audio.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Audio.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Built In Data.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Built In Data.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Default Local Group.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Default Local Group.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Epic Toon FX/Demo/Scripts/ETFXProjectileScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/Epic Toon FX/Demo/Scripts/ETFXProjectileScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fonts/EN, ES, PT, DE, FR, VI, ID, RU/NotoSans-Medium SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Fonts/EN, ES, PT, DE, FR, VI, ID, RU/NotoSans-Medium SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildTools/AndroidBuilder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildTools/AndroidBuilder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuiltInPadHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuiltInPadHelper.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Animal Controller/Empty Controller/Empty Controller Dark.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Animal Controller/Empty Controller/Empty Controller Dark.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Animal Controller/Empty Controller/Empty Controller Death.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Animal Controller/Empty Controller/Empty Controller Death.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Animal Controller/Empty Controller/Empty Controller Light.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Animal Controller/Empty Controller/Empty Controller Light.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Animal Controller/Empty Controller/Empty Controller.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Animal Controller/Empty Controller/Empty Controller.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Animal Controller/Human/Model/Eyes.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Animal Controller/Human/Model/Eyes.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Animal Controller/Human/Model/Hair.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Animal Controller/Human/Model/Hair.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Animal Controller/Human/Model/Steve.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Animal Controller/Human/Model/Steve.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/CalibrationFloor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/CalibrationFloor.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Climbable.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Climbable.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Ground 10.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Ground 10.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Ground 100.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Ground 100.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Ground 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Ground 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Ground 20.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Ground 20.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Ground 5.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Ground 5.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Ground Blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Ground Blue.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Ground Gray.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Ground Gray.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Ground Green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Ground Green.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Ground Ice.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Ground Ice.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Pillars.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Pillars.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Rocks 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Rocks 1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Rocks 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Rocks 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/TreLeafs.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/TreLeafs.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Trunk.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Trunk.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Water Forest.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Water Forest.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Water PlayGround.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Environment/Water PlayGround.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Blue.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Bone.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Bone.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/CheckPoint.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/CheckPoint.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Click Point.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Click Point.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Cross.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Cross.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Disabled.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Disabled.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Green.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Interactable.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Interactable.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Meat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Meat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/No Name.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/No Name.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Position Focus Tower.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Position Focus Tower.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Position Select.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Position Select.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Red.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Red.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Teleporter.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Teleporter.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Trigger.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Trigger.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Zone Hole.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Zone Hole.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Zones Dark.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Zones Dark.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Zones Red.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Zones Red.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Zones States.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Interactables/Zones States.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Magic/Diamond.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Magic/Diamond.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Magic/Gold.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Magic/Gold.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Magic/Magic Black.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Magic/Magic Black.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Magic/Magic Blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Magic/Magic Blue.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Magic/Magic Green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Magic/Magic Green.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Magic/Magic Purple.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Magic/Magic Purple.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Magic/Magic Red.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Magic/Magic Red.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Magic/Magic Yellow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Magic/Magic Yellow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Magic/Magic white.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Magic/Magic white.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Realistic Common/Eye Ball.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Realistic Common/Eye Ball.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Realistic Common/Eye Blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Realistic Common/Eye Blue.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Realistic Common/Eye Green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Realistic Common/Eye Green.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Realistic Common/Eye Red.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Realistic Common/Eye Red.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Realistic Common/Eye Yellow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Realistic Common/Eye Yellow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Realistic Common/Mouth.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Materials &amp; Textures/Realistic Common/Mouth.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Particles/Materials/Hit_Particle_01_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Particles/Materials/Hit_Particle_01_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Particles/Materials/Hit_Particle_02_Mat Blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Particles/Materials/Hit_Particle_02_Mat Blue.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Particles/Materials/Hit_Particle_02_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Particles/Materials/Hit_Particle_02_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Particles/Materials/ParticleGlow Blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Particles/Materials/ParticleGlow Blue.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Particles/Materials/ParticleGlow Yellow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Particles/Materials/ParticleGlow Yellow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Prefabs/Coins/Coin Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Prefabs/Coins/Coin Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Prefabs/Tracks/Bear Track.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Prefabs/Tracks/Bear Track.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Prefabs/Tracks/Boar Track.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Prefabs/Tracks/Boar Track.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Animal Controller/MAnimalCallBacks.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Animal Controller/MAnimalCallBacks.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Animal Controller/MAnimalLogic.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Animal Controller/MAnimalLogic.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Animal Controller/States/Climb.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Animal Controller/States/Climb.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Animal Controller/States/Death.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Animal Controller/States/Death.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Animal Controller/States/Fall.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Animal Controller/States/Fall.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Behaviors/RigidConstraintsB.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Behaviors/RigidConstraintsB.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Compatible StA/FPS/MRigidbodyFPSController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Compatible StA/FPS/MRigidbodyFPSController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Conditions/Unity/C_Collider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Conditions/Unity/C_Collider.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Core/OverrideCapsuleCollider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Core/OverrideCapsuleCollider.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Damage/MProjectile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Damage/MProjectile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Effects/SoundByMaterial.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Effects/SoundByMaterial.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Interactions/Pickable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Interactions/Pickable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Reactions/ColliderReaction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Reactions/ColliderReaction.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Reactions/RigidBodyReaction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Scripts/Reactions/RigidBodyReaction.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Shaders/Ground_20.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Shaders/Ground_20.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Shaders/PlayGround Terrain.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Malbers Animations/Common/Shaders/PlayGround Terrain.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/AudioSource.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/AudioSource.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleWorld/Cartoon Cats/Cat Chubby/3D/Materials/Cat Chubby.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleWorld/Cartoon Cats/Cat Chubby/3D/Materials/Cat Chubby.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleWorld/Cartoon Cats/Cat Chubby/3D/Materials/Extra Materials/Cat Chubby Black.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleWorld/Cartoon Cats/Cat Chubby/3D/Materials/Extra Materials/Cat Chubby Black.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleWorld/Cartoon Cats/Cat Chubby/3D/Materials/Extra Materials/Cat Chubby Brown.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleWorld/Cartoon Cats/Cat Chubby/3D/Materials/Extra Materials/Cat Chubby Brown.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleWorld/Cartoon Cats/Cat Chubby/3D/Materials/Extra Materials/Cat Chubby Stripes Brown.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleWorld/Cartoon Cats/Cat Chubby/3D/Materials/Extra Materials/Cat Chubby Stripes Brown.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleWorld/Cartoon Cats/Cat Chubby/3D/Materials/Extra Materials/Cat Chubby Stripes Gray.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleWorld/Cartoon Cats/Cat Chubby/3D/Materials/Extra Materials/Cat Chubby Stripes Gray.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleWorld/Cartoon Cats/Cat Chubby/3D/Materials/Extra Materials/Cat Chubby White.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleWorld/Cartoon Cats/Cat Chubby/3D/Materials/Extra Materials/Cat Chubby White.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans SDF - Drop Shadow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans SDF - Drop Shadow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans SDF - Drop Shadow.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans SDF - Drop Shadow.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans SDF - Outline.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans SDF - Outline.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans SDF - Outline.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans SDF - Outline.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans SDF.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans SDF.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro.cginc" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro.cginc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro.cginc.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro.cginc.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UITemplate" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UITemplate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Animation/Rigs/Materials/Default_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Animation/Rigs/Materials/Default_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/Boss.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/Boss.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/ObjectiveReachPoint.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/ObjectiveReachPoint.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/SpeedLine.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/SpeedLine.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/TrailDeath.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/TrailDeath.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/DiskExplosion.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/DiskExplosion.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/DiskSpinning.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/DiskSpinning.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/Dust.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/Dust.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/ExclamationMark.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/ExclamationMark.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/GunCylinders.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/GunCylinders.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/GunCylinders_Trail.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/GunCylinders_Trail.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/HealthCube.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/HealthCube.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/HealthGlow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/HealthGlow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/HealthPickups.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/HealthPickups.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/ImpactFlare.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/ImpactFlare.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/JetPackTrail.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/JetPackTrail.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/Lazer_Blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/Lazer_Blue.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/Lazer_Green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/Lazer_Green.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/Lazer_Red.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/Lazer_Red.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/MuzzleFlash.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/MuzzleFlash.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/PickupSparkles.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/PickupSparkles.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/ProjectileTrail.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/ProjectileTrail.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/Projectile_blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/Projectile_blue.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/Projectile_green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/Projectile_green.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/Projectile_red.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/Projectile_red.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/ShrapnelTriangle.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/ShrapnelTriangle.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/SmokeAngry.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/SmokeAngry.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/SmokeOverheat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/SmokeOverheat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/Spark.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/Spark.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/Wireframe_Cage.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/Art/Materials/VFX/Wireframe_Cage.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/FPS/New Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/FPS/New Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Materials/URP/restaurant_URP.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/KayKit/Packs/Bits/KayKit - Restaurant Bits (For Unity)/Materials/URP/restaurant_URP.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/BillboardMaterials/Billboard Content.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/BillboardMaterials/Billboard Content.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/BillboardMaterials/Billboard Frame.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/BillboardMaterials/Billboard Frame.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Basic Black.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Basic Black.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Basic Blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Basic Blue.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Basic Green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Basic Green.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Basic Red.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Basic Red.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Basic White.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Basic White.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Glass Clear.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Glass Clear.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Glass Dark.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Glass Dark.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Metal Copper.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Metal Copper.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Metal Silver.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Metal Silver.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Neon Blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Neon Blue.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Neon Glow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Neon Glow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Neon Green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Custom Materials/Neon Green.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/HatMaterials/GlassesMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/HatMaterials/GlassesMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/HatMaterials/PartyHatMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/HatMaterials/PartyHatMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/HatMaterials/TopHatMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/HatMaterials/TopHatMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/HatMaterials/WizardHatMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/HatMaterials/WizardHatMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Totems/M_StatueBig.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Totems/M_StatueBig.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Totems/M_StatueWall.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/Totems/M_StatueWall.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/TrailMaterials/FireTrailMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/TrailMaterials/FireTrailMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/TrailMaterials/LaserTrailMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/TrailMaterials/LaserTrailMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/TrailMaterials/LongTrailMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/TrailMaterials/LongTrailMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/TrailMaterials/PlatformerRainbowTrailMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/TrailMaterials/PlatformerRainbowTrailMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/TrailMaterials/RainbowTrailMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/ModAssets/Materials/TrailMaterials/RainbowTrailMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/NavMeshComponents/Scripts/NavMeshSurface.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/NavMeshComponents/Scripts/NavMeshSurface.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/Scenes/New Universal Render Pipeline Asset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/Scenes/New Universal Render Pipeline Asset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/Scenes/New Universal Render Pipeline Asset_Renderer.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/Scenes/New Universal Render Pipeline Asset_Renderer.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/TextMesh Pro/Sprites.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/TextMesh Pro/Sprites.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/TextMesh Pro/Sprites/EmojiOne Attribution.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/TextMesh Pro/Sprites/EmojiOne Attribution.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/TextMesh Pro/Sprites/EmojiOne.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/TextMesh Pro/Sprites/EmojiOne.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/TextMesh Pro/Sprites/EmojiOne.json.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/TextMesh Pro/Sprites/EmojiOne.json.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/TextMesh Pro/Sprites/EmojiOne.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/TextMesh Pro/Sprites/EmojiOne.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/Buillding_A.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/Buillding_A.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/Buillding_B.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/Buillding_B.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/Buillding_C.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/Buillding_C.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/CarGlass_A.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/CarGlass_A.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/CarPoliceLamp_Orenge.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/CarPoliceLamp_Orenge.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/CarPoliceLamp_Red.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/CarPoliceLamp_Red.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/CarPoliceLamp_white.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/CarPoliceLamp_white.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/CarPoliceSiren_Blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/CarPoliceSiren_Blue.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/CarPoliceSiren_Red.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/CarPoliceSiren_Red.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/CarProps.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/CarProps.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/Carpolice_Wheel.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/Carpolice_Wheel.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/GreenLamp_A.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/GreenLamp_A.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/Ground_A.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/Ground_A.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/HamburgerModel_A.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/HamburgerModel_A.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/House.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/House.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/Landscape.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/Landscape.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/Museum_A.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/Museum_A.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/PizzaShop_A.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/PizzaShop_A.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/RedLamp_A.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/RedLamp_A.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/Traffic Light_A.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/Traffic Light_A.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/WhiteLamp_A.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/WhiteLamp_A.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/UModeler/Materials/Basic/UModeler_Black.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/UModeler/Materials/Basic/UModeler_Black.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/UModeler/Materials/Basic/UModeler_Gray.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/UModeler/Materials/Basic/UModeler_Gray.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/UModeler/Materials/Basic/UModeler_Grid.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/UModeler/Materials/Basic/UModeler_Grid.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/UModeler/Materials/Basic/UModeler_InvisibleGrid.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/UModeler/Materials/Basic/UModeler_InvisibleGrid.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/UModeler/Materials/Basic/UModeler_PolygonSelection.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/UModeler/Materials/Basic/UModeler_PolygonSelection.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/UModeler/Materials/Basic/UModeler_RulerGrid_Blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/UModeler/Materials/Basic/UModeler_RulerGrid_Blue.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/UModeler/Materials/Basic/UModeler_RulerGrid_Gray.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/UModeler/Materials/Basic/UModeler_RulerGrid_Gray.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/UModeler/Materials/Basic/UModeler_RulerGrid_Green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/UModeler/Materials/Basic/UModeler_RulerGrid_Green.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/UModeler/Materials/Basic/UModeler_White.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/UModeler/Materials/Basic/UModeler_White.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/UModeler/Materials/Basic/UModeler_WindowGlass.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/demo_layout/tripolygon/UModeler/Materials/Basic/UModeler_WindowGlass.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -313,7 +298,7 @@
     "Attach to Unity Editor.Attach to Unity Editor.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "develop__2022__LTS",
+    "git-widget-placeholder": "Unity__6__1",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -326,7 +311,7 @@
 }]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.55f1\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.1.0f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath H:\ChuongDP\MyGameTemplate -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="H:\ChuongDP\MyGameTemplate" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -334,7 +319,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.55f1\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.1.0f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath H:\ChuongDP\MyGameTemplate -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="H:\ChuongDP\MyGameTemplate" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -385,7 +370,7 @@
       <workItem from="1746873295326" duration="2196000" />
       <workItem from="1746877213710" duration="702000" />
       <workItem from="1746877950703" duration="770000" />
-      <workItem from="1746895665931" duration="305000" />
+      <workItem from="1746895665931" duration="1692000" />
     </task>
     <servers />
   </component>

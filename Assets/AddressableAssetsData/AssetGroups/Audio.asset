@@ -13,12 +13,15 @@ MonoBehaviour:
   m_Name: Audio
   m_EditorClassIdentifier: 
   m_GroupName: Audio
-  m_Data:
-    m_SerializedData: []
   m_GUID: a42d79c8ef9e24945ba56e0059a61bea
   m_SerializeEntries:
   - m_GUID: 6ac571e69e59cf14ca8d997644365c1e
     m_Address: click_button
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f85830a58900c481788bb777b48ff2eb
+    m_Address: AudioSource
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0

@@ -163,7 +163,7 @@ namespace MalbersAnimations.Weapons
             {
               //  rb.isKinematic = false; //IMPORTANT!!!
                 EnableRigidBody();
-                rb.velocity = Vector3.zero; //Reset the velocity IMPORTANT!
+                rb.linearVelocity = Vector3.zero; //Reset the velocity IMPORTANT!
 
 
               //  StartCoroutine(Artificial_Gravity()); //Check if the Gravity is not the Physics Gravity
@@ -271,7 +271,7 @@ namespace MalbersAnimations.Weapons
                 }
                 else
                 {
-                    rb.velocity = Direction;
+                    rb.linearVelocity = Direction;
                     rb.MovePosition(Prev_pos);
                 }
 
@@ -391,9 +391,9 @@ namespace MalbersAnimations.Weapons
                     Enable_Collider();
                     if (rb)
                     {
-                        Debug.DrawRay(transform.position, rb.velocity * 5, Color.yellow, 3f);
+                        Debug.DrawRay(transform.position, rb.linearVelocity * 5, Color.yellow, 3f);
                         rb.AddForce(Direction, ForceMode.Impulse);
-                        rb.velocity = Direction;
+                        rb.linearVelocity = Direction;
                     }
                     Debugging("Activate Rigid Body", null);
                     break;
