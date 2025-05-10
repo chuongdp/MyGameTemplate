@@ -177,6 +177,6 @@ MonoBehaviour:
     - true
     - 60
     - 180
-  NO_ADS: 0
+  NO_ADS: 1
   NoReward: 0
   Report: 

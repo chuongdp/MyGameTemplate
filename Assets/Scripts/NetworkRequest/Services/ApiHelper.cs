@@ -32,7 +32,7 @@ namespace HyperGame.Script.NetworkRequest.Services
             await this.httpService.SendPostAsync<SendChatHttpDataHandle, SendChatResponse>(request);
         }
 
-        public async UniTask<GeminiChatResponse> SendGeminiChatRequest()
+        public async UniTask<GeminiChatResponse> SendGeminiChatRequest(string requestText)
         {
             var request = new GeminiRequestData
             {
@@ -43,7 +43,7 @@ namespace HyperGame.Script.NetworkRequest.Services
                         Role = "user",
                         Parts = new List<GeminiPart>()
                         {
-                            new() { Text = "Hello, how are you? Can you help me summary the btc trend today?" }
+                            new() { Text = requestText }
                         }
                     }
                 }

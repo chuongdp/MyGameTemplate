@@ -1,4 +1,4 @@
-namespace MyGame.Script.Utilities
+namespace MiraiGame.Script.Utilities
 {
     using System;
     using VContainer;

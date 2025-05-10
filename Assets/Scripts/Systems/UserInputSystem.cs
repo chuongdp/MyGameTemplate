@@ -1,4 +1,4 @@
-﻿namespace MyGame.Script.Systems
+﻿namespace MiraiGame.Script.Systems
 {
     using UnityEngine;
     using GameFoundation.DI;

@@ -1,9 +1,9 @@
-namespace MyGame.Script.UIs.Screen.ChapterSelection
+namespace MiraiGame.Script.UIs.Screen.ChapterSelection
 {
     using System;
     using GameFoundation.Scripts.AssetLibrary;
     using GameFoundation.Scripts.UIModule.MVP;
-    using MyGame.Script.Blueprints;
+    using MiraiGame.Script.Blueprints;
     using TMPro;
     using UnityEngine;
     using UnityEngine.UI;

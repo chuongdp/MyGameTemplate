@@ -1,4 +1,4 @@
-namespace MyGame.Script
+namespace MiraiGame.Script
 {
     using System.Collections.Generic;
     using Cysharp.Threading.Tasks;
@@ -10,9 +10,9 @@ namespace MyGame.Script
     using GameFoundation.Scripts.Utilities.Utils;
     using GameFoundation.Signals;
     using LocalData;
-    using MyGame.Script.Services;
-    using MyGame.Script.UIs.Popups;
-    using MyGame.Script.UIs.Popups.SettingComponents;
+    using MiraiGame.Script.Services;
+    using MiraiGame.Script.UIs.Popups;
+    using MiraiGame.Script.UIs.Popups.SettingComponents;
     using UnityEngine;
     using UnityEngine.UI;
 

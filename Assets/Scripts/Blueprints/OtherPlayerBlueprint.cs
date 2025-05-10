@@ -1,4 +1,4 @@
-﻿namespace MyGame.Script.Blueprints
+﻿namespace MiraiGame.Script.Blueprints
 {
     using BlueprintFlow.BlueprintReader;
 

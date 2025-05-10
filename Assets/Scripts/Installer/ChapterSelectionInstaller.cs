@@ -1,8 +1,8 @@
-namespace MyGame.Script
+namespace MiraiGame.Script
 {
     using GameFoundation.DI;
     using GameFoundation.Scripts.UIModule.Utilities;
-    using MyGame.Script.UIs.Screen.ChapterSelection;
+    using MiraiGame.Script.UIs.Screen.ChapterSelection;
     using VContainer;
 
     public class ChapterSelectionInstaller : SceneScope

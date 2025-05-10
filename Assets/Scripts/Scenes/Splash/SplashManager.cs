@@ -1,6 +1,7 @@
 ﻿namespace UnityTemplateProjects.Scenes.Splash
 {
     using Cysharp.Threading.Tasks;
+    using DVAH;
     using UnityEngine;
     using UnityEngine.SceneManagement;
 
@@ -12,6 +13,7 @@
 
         private void InitSDK()
         {
+            Debug.Log($"InitSDK: {AdBridge.Instant}");
             this.LoadLoadingScene();
         }
 

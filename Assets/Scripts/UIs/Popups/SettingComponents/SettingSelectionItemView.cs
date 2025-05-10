@@ -1,4 +1,4 @@
-namespace MyGame.Script.UIs.Popups.SettingComponents
+namespace MiraiGame.Script.UIs.Popups.SettingComponents
 {
     using System;
     using System.Collections.Generic;
